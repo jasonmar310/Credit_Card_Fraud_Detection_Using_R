@@ -1,0 +1,501 @@
+"trans_date_trans_time","merchant","category","amt","gender","city","state","city_pop","job","dob","trans_num","is_fraud"
+"6/1/2019 10:38","fraud_Friesen-Stamm","gas_transport",48.54,"M","Oakland","TN",9496,"Furniture conservator/restorer","3/23/1993","2380480d92d13713c6dd6ffb3d6ffdc3",0
+"11/13/2019 15:54","fraud_Langworth LLC","personal_care",30.8,"F","North Wilkesboro","NC",21134,"Dispensing optician","3/6/1984","9b3339ad541538af44e4e174aec15074",0
+"4/28/2019 21:08","fraud_Torphy-Goyette","shopping_pos",7.2,"M","Lake Jackson","TX",28739,"Futures trader","12/27/1999","075b2ae43310fbb21dfe99cd3d27bca6",0
+"7/28/2019 20:29","fraud_Reinger, Weissnat and Strosin","food_dining",58.33,"M","Helm","CA",123,"Early years teacher","2/7/1973","8c335b5f74ef9cbc583b0ef1e107fe89",0
+"1/20/2020 15:02","fraud_Lemke and Sons","travel",8.26,"F","Matthews","MO",1019,"Aeronautical engineer","1/26/1979","4bd78d6878a5f7778279bd14673db207",0
+"4/26/2019 11:40","fraud_Ortiz Group","grocery_net",61.9,"M","Lamberton","MN",1507,"Land/geomatics surveyor","10/12/1993","bbc855b7341db8c6242334f07ebecb4d",0
+"7/11/2019 22:51","fraud_Bins-Tillman","entertainment",135.27,"F","Scotia","SC",302,"Magazine features editor","5/4/1973","5cc87ff31cb70193216eb3732f068b4c",0
+"3/6/2020 8:17","fraud_Mohr-Bayer","shopping_net",91.24,"M","Carroll","NE",566,"Metallurgist","1/26/1975","c20b045f733e25f623a258ae47d7b046",0
+"8/7/2019 6:18","fraud_Bernier, Streich and Jewess","grocery_net",67.93,"F","Orangeburg","NY",5950,"Records manager","7/2/1971","4cbb18046e3d0f75a4b71289983b17d8",0
+"2/18/2019 23:33","fraud_Denesik and Sons","shopping_pos",2.15,"M","Methuen","MA",47249,"Market researcher","11/22/1980","7ea7189ed02c465e2631448e80af0bc3",0
+"11/4/2019 7:05","fraud_Jast Ltd","shopping_net",1.27,"F","Cisco","IL",478,"Landscape architect","1/13/1960","df0c61be8789a3bb4beaedd685072139",0
+"5/12/2019 23:17","fraud_Mosciski, Ziemann and Farrell","shopping_net",6.1,"M","Quanah","TX",3202,"Librarian, public","3/18/1998","35d36c6adf81b75c227da943b91a67fe",0
+"6/1/2019 0:22","fraud_Cremin, Hamill and Reichel","misc_pos",28.5,"M","Saxon","WI",795,"Television/film/video producer","4/15/1986","98afc3aa311921006b10dbfdf8701547",0
+"9/4/2019 18:06","fraud_Cormier LLC","health_fitness",247.48,"F","Saint Paul","MN",753116,"Fisheries officer","8/6/1971","77e68b26eb5c2968a37c9c6e450c7310",0
+"8/8/2019 19:09","fraud_Brown Inc","kids_pets",40.47,"M","Saxon","WI",795,"Television/film/video producer","4/15/1986","9fc21238e74158f756792da0a8577959",0
+"2/23/2019 0:08","fraud_Connelly, Reichert and Fritsch","gas_transport",61.95,"F","Avoca","IA",2036,"Engineering geologist","8/20/1971","0ae0dabfab71fc3fd638cc83c217ba8b",0
+"8/24/2019 23:22","fraud_Goldner-Lemke","entertainment",38.07,"F","Tulsa","OK",413574,"Teacher, special educational needs","9/1/1971","200367b8363cd6d4ff72a23bfe31e16a",0
+"7/29/2019 14:37","fraud_Morissette PLC","shopping_pos",7,"F","Bonfield","IL",1617,"Medical secretary","4/25/1990","e092ec01be7cf4568c8c8cfe4baf5abb",0
+"11/10/2019 2:25","fraud_Ortiz Group","grocery_net",70.8,"F","Wilmington","NC",186140,"English as a second language teacher","2/8/1983","a87eb475ae33b7a595ffd32b85c25d13",0
+"6/10/2019 3:11","fraud_Raynor, Feest and Miller","gas_transport",52.99,"M","Tyaskin","MD",470,"Music tutor","4/7/1965","ad6a99157e3a68edce9a47dcf1092887",0
+"1/26/2020 19:41","fraud_Heathcote, Yost and Kertzmann","shopping_net",7.52,"F","Baroda","MI",3104,"Horticulturist, commercial","3/29/1981","b7325c08830ad347312fe59648ac7567",0
+"10/22/2019 10:00","fraud_Harris Inc","gas_transport",60.87,"F","Sutherland","NE",1789,"Insurance broker","2/11/1982","b034fc71caed4ece41a17e2a4f634eb6",0
+"7/5/2019 9:23","fraud_Hills-Olson","grocery_net",36.54,"F","Haynes","AR",222,"Programmer, applications","5/19/1963","eee4fb75869f0ab4561aa64ed76f778d",0
+"12/16/2019 21:51","fraud_Auer-West","shopping_net",2.47,"F","Roosevelt","OK",551,"Amenity horticulturist","9/27/1970","1ed360646da14b5f3d898396b3b373b1",0
+"6/1/2019 6:10","fraud_Willms, Kris and Bergnaum","shopping_pos",1.13,"F","Garrattsville","NY",165,"Naval architect","9/20/1945","652aba654f9d737b5d51bd2a8023e666",0
+"6/10/2019 5:56","fraud_Koepp-Parker","grocery_pos",50.13,"M","Elizabeth","NJ",124967,"Operational researcher","12/21/1980","87196420ea3c205b980427a1d6975a2b",0
+"10/6/2019 5:50","fraud_Block Group","misc_pos",1.15,"F","Loving","NM",1925,"Educational psychologist","5/26/1952","2f97ede5870560abfc6a13717835fc95",0
+"2/4/2019 22:14","fraud_Bahringer, Osinski and Block","food_dining",111.06,"F","North Wilkesboro","NC",21134,"Dispensing optician","3/6/1984","633065ec0c5adcbf01edee9ab2d4d3c1",0
+"6/10/2019 11:42","fraud_Harber Inc","gas_transport",59.89,"F","Metairie","LA",137067,"Advertising account planner","12/4/1951","753075f1c3b159fff4e15568eb390522",0
+"8/20/2019 7:37","fraud_Pacocha-O'Reilly","grocery_pos",107.71,"M","Wales","AK",145,"Administrator, education","11/9/1939","5e4edd512e34d41af767d76fae8636a2",0
+"12/2/2019 0:37","fraud_Daugherty, Pouros and Beahan","shopping_pos",4,"F","Minneapolis","MN",1022298,"Analytical chemist","10/28/1967","567095d84866e9f10ec6624713af127b",0
+"7/1/2019 0:23","fraud_Cummerata-Jones","gas_transport",58.53,"F","Cleveland","TX",34153,"Building surveyor","9/11/1995","533ff8d7a9b2d0637eaf44aa7387ac0c",0
+"1/13/2019 4:10","fraud_Zboncak LLC","food_dining",69.71,"F","Albuquerque","NM",641349,"Charity officer","1/24/1967","2f91ad6d9da112a2705a1e1d607394e2",0
+"1/21/2019 19:10","fraud_Morissette PLC","shopping_pos",2.6,"M","Fayetteville","NC",238602,"Scientist, research (maths)","5/14/1993","d2e1c77658a3f2d5586261192147917f",0
+"5/12/2019 22:59","fraud_Medhurst, Labadie and Gottlieb","travel",3.7,"F","Ridgeland","MS",24645,"Scientist, clinical (histocompatibility and immunogenetics)","5/29/1966","be5aabd64866f5ba8d34cf13cd988ff0",0
+"3/3/2020 18:35","fraud_Kihn, Abernathy and Douglas","shopping_net",2.16,"F","Baton Rouge","LA",378909,"Designer, furniture","2/22/1977","a7d5487614aa9e64fd056cb334ae07e5",0
+"12/15/2019 13:21","fraud_Bahringer-Streich","food_dining",9.32,"F","Uledi","PA",328,"Tree surgeon","7/25/1983","d29fce467d08d9586051d879bc0ba86f",0
+"8/4/2019 0:11","fraud_Reilly, Heaney and Cole","gas_transport",57.27,"F","Thrall","TX",1766,"Press sub","1/2/1976","d581997a78347fba9f48372bff8ec43c",0
+"9/12/2019 9:44","fraud_Kuvalis Ltd","gas_transport",53.31,"F","Norwich","OH",1443,"Research scientist (medical)","3/4/1962","dc6089594aa003f68c3709e9d928537e",0
+"12/27/2019 7:07","fraud_Heathcote, Yost and Kertzmann","shopping_net",4.51,"F","Port Gibson","NY",207,"Database administrator","9/27/1962","bd9c387411e8f1664f64a5d5c4b55461",0
+"4/1/2019 5:57","fraud_Murray Ltd","grocery_net",38.15,"F","Issaquah","WA",50489,"Osteopath","2/29/1984","880d697bbd2effc2e86fdbe9f43d3a5d",0
+"11/4/2019 2:41","fraud_Rippin, Kub and Mann","misc_net",196.93,"F","Dublin","PA",2158,"Transport planner","6/19/1961","74a36a76ab9bd15fd56d666438ea406a",0
+"2/2/2019 17:18","fraud_Mosciski Group","travel",9.75,"M","Johns Island","SC",20478,"Materials engineer","6/4/1997","4bbf3deac87beb5ef9753416cc4a035c",0
+"4/26/2019 0:40","fraud_Schoen, Kuphal and Nitzsche","grocery_pos",52.71,"M","Monmouth Beach","NJ",3279,"Health promotion specialist","10/5/1978","1c3db53b122a83b0e0b1656626063f43",0
+"2/5/2019 5:51","fraud_Raynor, Reinger and Hagenes","gas_transport",60.22,"M","Tryon","OK",1165,"Psychotherapist, child","11/11/1944","252d66753f3643e92cac8412533e440e",0
+"2/18/2019 17:05","fraud_Kutch, Steuber and Gerhold","food_dining",61.61,"F","Clarks Mills","PA",606,"Energy manager","9/22/1997","9d9e7c7b6e2226101a5a952e1f63a3b7",0
+"3/8/2019 22:27","fraud_Altenwerth-Kilback","home",13.14,"M","Norman","AR",1383,"Magazine features editor","8/8/1966","47ab65481723a789799ff054c56fa449",0
+"7/4/2019 20:53","fraud_Erdman-Schaden","personal_care",25.45,"F","Kilgore","TX",24536,"Multimedia programmer","10/14/1983","27dfe0129733a96fae3dd5cd5d04ba3a",0
+"9/16/2019 1:56","fraud_Denesik and Sons","shopping_pos",7.54,"M","Luray","MO",519,"Town planner","2/13/1966","f22e07b2939dc880ad04fa21e36af3fe",0
+"12/25/2019 23:07","fraud_Mohr Inc","shopping_pos",3.66,"M","Ruckersville","VA",9815,"Designer, ceramics/pottery","7/7/1975","50b0190805eabc8a923345f79d05112f",0
+"1/22/2020 23:09","fraud_Bogisich-Weimann","kids_pets",20.78,"M","Great Mills","MD",5927,"Art therapist","6/9/1973","e7ad637704ad1997419245e05abb8cc5",0
+"9/28/2019 9:37","fraud_Hackett-Lueilwitz","grocery_pos",106.64,"F","Orient","WA",149,"Special educational needs teacher","6/21/1978","e401944f27a6fcd4dab7740f55c0aaf3",0
+"5/20/2019 4:41","fraud_McGlynn-Heathcote","misc_net",5.87,"F","Phenix City","AL",59744,"Chemical engineer","2/7/1984","4452b9f4934149c3625bd32493c1644d",0
+"10/18/2019 3:08","fraud_Heller-Langosh","gas_transport",49.78,"F","Meredith","CO",61,"Public relations account executive","11/4/1939","4a16b051bc09ee6ec367bc81aa559831",0
+"12/20/2019 21:34","fraud_Kerluke-Abshire","shopping_net",5.18,"F","Mountain Center","CA",1661,"Therapist, music","9/19/1988","0b819b15cc8e25d91bcc374a8e47f32b",0
+"8/16/2019 8:47","fraud_Spinka-Welch","grocery_net",40.18,"M","East Troy","WI",9679,"Engineer, production","4/11/1991","2d0fd8ba40a2fed84e8fdf1e17f16434",0
+"5/14/2019 13:56","fraud_Witting, Beer and Ernser","home",84.7,"F","Orient","WA",149,"Special educational needs teacher","6/21/1978","9035d678240d6f875ac2d4f8f7c0568a",0
+"7/14/2019 23:05","fraud_Schaefer Ltd","kids_pets",30.3,"F","Utica","MO",271,"Land/geomatics surveyor","4/18/1972","06145397f0647fc1e2e1d7ba606408ec",0
+"3/1/2020 17:28","fraud_Turcotte, McKenzie and Koss","entertainment",132,"F","Rocky Mount","MO",1847,"Tax inspector","10/26/1988","85e18cb78313ce606f0a6e4f636df6d1",0
+"8/2/2019 2:26","fraud_Mayert Group","shopping_pos",5.12,"F","Holstein","NE",331,"Telecommunications researcher","8/19/1950","1feb25950e0b261c83e2aa6750a4e680",0
+"5/5/2019 11:22","fraud_Morissette PLC","shopping_pos",186.52,"M","Kent","OR",60,"Museum education officer","4/3/1942","8b05b13b2e89f6df9815d8cf76519282",0
+"12/4/2019 2:34","fraud_Bernier, Volkman and Hoeger","misc_net",112.64,"M","Ruckersville","VA",9815,"Designer, ceramics/pottery","7/7/1975","5468d8d70a1886b1b4c08d0a00b0ded4",0
+"5/23/2019 0:42","fraud_Reilly, Heaney and Cole","gas_transport",36.82,"M","Wales","AK",145,"Administrator, education","11/9/1939","ba51522fdedd25b3b5ca1069f2ba9481",0
+"7/31/2019 20:47","fraud_Graham, Hegmann and Hammes","food_dining",77.99,"F","Lawn","PA",213,"Special educational needs teacher","2/15/1972","e536fb2b0be782d51df875d78e519ebf",0
+"2/16/2020 14:03","fraud_Schmidt and Sons","shopping_net",7.7,"F","Birmingham","IA",888,"Camera operator","3/25/1988","78ff3eda97ae0d01de706937023e4127",0
+"8/25/2019 16:44","fraud_Parker-Kunde","personal_care",92.68,"M","Ollie","IA",568,"Commercial horticulturist","7/24/1969","a13fa7bc4ba345ec2d5f71311f21c84e",0
+"2/17/2019 9:30","fraud_Cummerata-Jones","gas_transport",59.02,"M","Tyaskin","MD",470,"Music tutor","4/7/1965","ee17f6d48fb0cd31d6c78f0fbbc1adf9",0
+"10/21/2019 13:24","fraud_Pouros, Walker and Spencer","kids_pets",99.76,"F","Henderson","WV",642,"Building services engineer","8/30/1946","ed1de201773bf170bfb5390d46f44f83",0
+"5/13/2019 8:59","fraud_Terry-Huel","shopping_net",73.42,"M","Spearsville","LA",1758,"Psychologist, forensic","8/8/1957","b94041a786b377cba360f3b1b0ae3645",0
+"8/26/2019 11:27","fraud_Feil, Hilpert and Koss","food_dining",83.19,"M","Paulding","OH",6284,"Secondary school teacher","3/27/1936","ae44f545facd2361f752f222c8c29f31",0
+"12/20/2019 23:52","fraud_Donnelly PLC","misc_net",5.56,"M","Gretna","LA",55581,"Biomedical scientist","9/12/1972","3e8c483be8cf69c4977dc6e91f1807a9",0
+"7/19/2019 3:59","fraud_Koepp-Parker","grocery_pos",103.53,"F","Kirtland Afb","NM",310,"Surveyor, land/geomatics","9/30/1978","5330ff409a60d07fc0b12edfb415a72e",0
+"12/20/2019 1:32","fraud_Rutherford-Mertz","grocery_pos",140.9,"F","Prairie Hill","TX",263,"Barrister","5/30/1956","190bdbcd3b3374bd84c4a5306b887b76",0
+"11/28/2019 9:34","fraud_Spencer-Runolfsson","misc_pos",86.43,"F","Napa","CA",94014,"Airline pilot","8/21/1985","c9e56abdee39718a031667488fd2413f",0
+"7/27/2019 3:31","fraud_Parisian and Sons","gas_transport",105.63,"F","Hannawa Falls","NY",69,"Chief Executive Officer","6/5/1991","54c745e74d561b113987a786a7c13158",0
+"12/2/2019 18:55","fraud_Monahan-Morar","personal_care",58.68,"F","Cressona","PA",1606,"Ecologist","5/10/1966","288f6f6a5c1c6e9604c2d608fcb8e985",0
+"2/19/2019 20:42","fraud_Boyer-Reichert","shopping_net",49.26,"F","Grandview","TX",5875,"Radiographer, therapeutic","7/24/1992","d7cc7d5d3a6c73ef448188e39c8e9685",0
+"7/5/2019 5:14","fraud_Miller-Hauck","grocery_pos",107.43,"M","Grand Junction","TN",1804,"Clothing/textile technologist","10/15/1974","5454fb2ee3ba47916b6e360323a9dd36",0
+"12/2/2019 14:48","fraud_Schuppe, Nolan and Hoeger","shopping_pos",152.57,"F","Lomax","IL",725,"Environmental consultant","11/28/1972","7be8cbeeee908bb2d7abd1021e6e2ff7",0
+"11/4/2019 18:39","fraud_Bartoletti and Sons","personal_care",6.07,"M","Sontag","MS",1196,"Librarian, academic","6/11/1958","70d726bfb6f74180402b94244ed2736c",0
+"11/18/2019 13:40","fraud_Hilpert-Conroy","kids_pets",1.6,"M","Cleveland","AL",3996,"Aid worker","6/14/1977","0f94a3b32d5c614782d1f4d56141bedf",0
+"2/4/2019 1:46","fraud_Greenholt, Jacobi and Gleason","gas_transport",48.55,"F","Logan","IL",324,"Scientist, research (physical sciences)","6/15/1976","a982f7e319a0079daf20f47900296af5",0
+"6/23/2019 7:38","fraud_Greenholt, O'Hara and Balistreri","shopping_net",100.1,"M","Shippingport","PA",198,"Secretary/administrator","10/26/1978","74c0415f66e7b9652157929386af7f56",0
+"12/3/2019 17:38","fraud_Lynch Ltd","shopping_pos",14.74,"F","Houston","TX",2906700,"Copywriter, advertising","12/16/1984","9a6adc96e64342afefab05dfe46a4691",0
+"8/3/2019 23:17","fraud_Dietrich-Fadel","health_fitness",23.23,"M","Oklahoma City","OK",640470,"Advertising copywriter","6/24/1966","e9c90aac1fffce1aafac912721d30001",0
+"8/17/2019 2:57","fraud_Stark-Batz","entertainment",241.13,"F","Waupaca","WI",15426,"Engineer, civil (contracting)","7/22/1936","1fc9ea237ba19ea240eebecd6c91c6ec",0
+"6/2/2019 22:34","fraud_Waelchi Inc","kids_pets",30.19,"M","Parsonsfield","ME",1892,"Audiological scientist","3/2/1956","832cdb43aa037ad2a254d1308b574172",0
+"12/8/2019 22:37","fraud_Kemmer-Buckridge","misc_pos",12.82,"M","Port Richey","FL",42619,"Environmental education officer","10/7/1975","9826eb93b209179db33b3287b4d94966",0
+"3/7/2019 8:41","fraud_Rau and Sons","grocery_pos",112.01,"M","Burns Flat","OK",2142,"Politician's assistant","6/30/1976","62040c1ea4e869b3fc1a75aed202fb62",0
+"12/23/2019 19:09","fraud_Goyette-Herzog","travel",6.57,"F","Queenstown","MD",3862,"Maintenance engineer","12/6/1962","34946b685c27c7c51dc2bd460aeb8a88",0
+"5/19/2019 13:10","fraud_Larkin Ltd","kids_pets",5.55,"M","Luzerne","MI",864,"General practice doctor","5/4/1942","fc5716aaff2b43f14bd5ff782a3a3918",0
+"12/16/2019 20:41","fraud_Kuphal-Toy","food_dining",107,"M","Naples","FL",276002,"Programme researcher, broadcasting/film/video","1/2/1979","74b6e7d5324ab32e6ca9b12afa26710d",0
+"2/17/2020 2:12","fraud_Greenholt, Jacobi and Gleason","gas_transport",63.57,"M","Haines City","FL",33804,"Exercise physiologist","1/1/1991","38755d9a1b7d22ac4b3e09052efdcfeb",0
+"3/17/2019 6:34","fraud_Jast and Sons","food_dining",65.19,"M","Huntsville","AL",190178,"Engineer, automotive","6/6/1959","da33d2949e3338a0792b93edfb8615f0",0
+"3/23/2019 7:59","fraud_Yost, Block and Koepp","misc_pos",2.26,"M","Cass","WV",365,"Special effects artist","3/14/1970","5b7a85a1cc59a7559edd8269c2e0b9d2",0
+"12/14/2019 3:57","fraud_Dickinson-Rempel","misc_pos",36.99,"M","Bridger","MT",1446,"Chartered loss adjuster","1/15/1978","0ffda365fe7330741721146dc0d187e4",0
+"1/22/2019 7:20","fraud_Schmitt Inc","gas_transport",71.6,"M","Shelter Island","NY",1858,"Clinical biochemist","3/3/1984","d0777070ef18717edaa3eaa325163946",0
+"9/18/2019 17:23","fraud_O'Connell, Botsford and Hand","home",33.35,"M","Humble","TX",194500,"Tax adviser","12/18/1990","b7fa36ba063babe2044ad62a6a417cef",0
+"3/10/2019 17:21","fraud_Koss, Hansen and Lueilwitz","home",152.25,"M","Boulder","MT",1939,"Patent attorney","1/12/1967","6a339898228c17cd2797a77732bae04e",0
+"8/20/2019 7:06","fraud_Kiehn-Emmerich","grocery_pos",17.18,"M","Dadeville","AL",8269,"Minerals surveyor","1/4/1977","0d6ed2e3fd6ccd6afa269c987638ff46",0
+"5/6/2019 5:16","fraud_Rempel PLC","grocery_net",80.49,"F","Mobile","AL",270712,"Surveyor, land/geomatics","1/5/1972","f6544f79bdd22c0407b93a5817acc243",0
+"11/18/2019 4:54","fraud_Bernhard-Lesch","food_dining",36.21,"M","Burke","VA",43102,"Health visitor","11/27/1950","9440bf8ffbee3b85f70721e56b3624d7",0
+"7/7/2019 18:26","fraud_Morissette LLC","entertainment",170,"F","Scotia","SC",302,"Magazine features editor","5/4/1973","d9c92ecffe3a6ebbcf7666e79d99795c",0
+"12/11/2019 4:16","fraud_Dicki Ltd","grocery_net",77.13,"M","Valentine","NE",4005,"Network engineer","3/15/1945","b8d581ad4c7803259c59f8a909c4d093",0
+"5/11/2019 17:30","fraud_Moore, Williamson and Emmerich","home",9.54,"F","Pembroke Township","IL",2135,"Psychotherapist, child","5/8/2004","37d5cd23c1be22437bff3abbd0dd5e98",0
+"12/8/2019 11:51","fraud_Ferry, Reichel and DuBuque","grocery_net",34.56,"M","Arcadia","OH",1202,"Curator","3/1/1933","0855c561c4a9a7eb475de6de560a7334",0
+"7/3/2019 15:37","fraud_Bernhard-Lesch","food_dining",70.12,"F","Amanda","OH",4512,"Farm manager","10/3/1992","29327783ecce4d78cd695dde35da039a",0
+"5/9/2019 21:40","fraud_Feil-Morar","health_fitness",41.9,"F","Prosperity","SC",8333,"Archaeologist","7/9/1994","4c897366936aeb78bea4f1909585428b",0
+"7/24/2019 22:30","fraud_Johnson, Runolfsdottir and Mayer","misc_net",3.82,"M","Oconto Falls","WI",5548,"Mining engineer","9/11/1975","9642de3b842a0a3262aeebf70d0f6e04",0
+"5/2/2019 23:02","fraud_Lind-Buckridge","entertainment",4.88,"F","Henderson","WV",642,"Building services engineer","8/30/1946","69c6f690209863f2171ec79b086b92b9",0
+"9/30/2019 13:16","fraud_Hagenes, Kohler and Hoppe","food_dining",11.01,"M","Spring Church","PA",972,"Public relations account executive","10/23/1997","f13fd48269f07765cfa275c4ab14c3f1",0
+"12/9/2019 16:16","fraud_Gottlieb Group","kids_pets",9.16,"M","Lohrville","IA",695,"Administrator","7/15/1954","010ff375f14bedd079e83478d9b79699",0
+"12/11/2019 20:10","fraud_Morissette LLC","entertainment",90.17,"M","Manderson","SD",1126,"Volunteer coordinator","8/18/1980","e6d8a7e1fc20526ef1bedeca801fc23a",0
+"2/7/2020 15:19","fraud_Medhurst PLC","shopping_net",730.55,"M","Fayetteville","NC",238602,"Scientist, research (maths)","5/14/1993","6fd9d6d7911d4e4ffcd8dda6d2e7d66b",0
+"6/14/2019 5:12","fraud_Corwin-Gorczany","misc_net",234.12,"F","Sherman","TX",46563,"Systems developer","9/11/1970","dd49bf9ed28c5236c953dfd9fb8c0475",0
+"3/25/2019 8:07","fraud_Schmitt Ltd","misc_net",110.86,"M","Harper","TX",2395,"Pharmacist, community","11/17/1993","dc0b02aa3e400d981be07c273c46f903",0
+"5/27/2019 7:54","fraud_Koepp-Parker","grocery_pos",120.76,"M","Rock Tavern","NY",2258,"Building surveyor","3/17/1937","c7c77aad3bbe3cc66ece30e7c3b58063",0
+"12/29/2019 6:38","fraud_Huels-Nolan","gas_transport",37.31,"F","Heart Butte","MT",743,"Water engineer","5/4/1972","67f9bd98e290723736d9e6ae2fe32832",0
+"12/6/2019 6:19","fraud_Padberg-Welch","grocery_pos",99.39,"M","San Diego","CA",1241364,"Chartered public finance accountant","8/5/1959","569695e65b882cb207b219a741f78847",0
+"3/2/2019 4:24","fraud_Kris-Weimann","misc_net",41.29,"M","Cecilton","MD",663,"Podiatrist","1/14/1969","b24576109215cb8f95b8521a74c29f70",0
+"3/5/2019 11:43","fraud_Gerlach Inc","shopping_net",80.46,"M","Fiddletown","CA",832,"Immigration officer","5/19/1987","cf359890eced9f2d68565c3737e7e58d",0
+"12/2/2019 3:51","fraud_Powlowski-Weimann","food_dining",94.91,"M","East Rochester","NY",8019,"Retail buyer","6/26/1928","92d78fd550dec4a37e9e34a4556c0cc0",0
+"12/21/2019 10:56","fraud_Mraz-Herzog","gas_transport",54.48,"F","Kansas City","MO",545147,"Counsellor","11/18/1987","6e88d52544d7c0e84be8925c8170a9bd",0
+"8/13/2019 11:15","fraud_Harber Inc","gas_transport",65.14,"F","Brunson","SC",1725,"Social researcher","12/5/1974","1781b841ea2a9e8261de40cd5c594891",0
+"8/7/2019 8:02","fraud_Roob, Conn and Tremblay","shopping_pos",45.93,"M","Benton","WI",1306,"Public relations officer","9/10/1958","466dc5f507f0caa32872d664afdee6a3",0
+"2/14/2020 7:56","fraud_Adams, Kovacek and Kuhlman","grocery_net",54.12,"M","Newberg","OR",28278,"Research scientist (physical sciences)","7/17/1977","7fee5c870507bf6048740044d27f0217",0
+"8/28/2019 14:17","fraud_Jewess LLC","shopping_pos",1.44,"F","Uledi","PA",328,"Tree surgeon","7/25/1983","68dcd5de238a61c9c995fb05315bc3aa",0
+"11/18/2019 18:11","fraud_Bins, Balistreri and Beatty","shopping_pos",117.62,"M","Olmsted","IL",639,"Mechanical engineer","8/1/1982","21cac3e07924ea09f6a221059f336042",0
+"6/16/2019 13:00","fraud_Champlin and Sons","home",84.01,"M","Huntsville","AL",190178,"Television production assistant","4/1/1973","0d6ef8b54e7990690903a4f8ef7165a6",0
+"2/5/2019 23:58","fraud_Torphy-Kertzmann","health_fitness",43.63,"M","Knowlesville","NY",275,"TEFL teacher","8/18/1964","7d3e0c2eb7b276cef3c80680afbb9d79",0
+"10/4/2019 12:27","fraud_Turner LLC","travel",5.93,"M","Moulton","IA",1132,"Probation officer","2/14/1961","b0690625a01515aab55dbc1198260e84",0
+"3/31/2019 13:56","fraud_Lubowitz-Walter","kids_pets",87.57,"F","Georgetown","MN",346,"Research officer, trade union","12/14/1976","f2c9de7aba7caedcf0aa224d886a2cdf",0
+"8/30/2019 2:07","fraud_Rowe, Batz and Goodwin","grocery_pos",98.22,"M","Mount Saint Joseph","OH",177,"Exhibition designer","5/30/1974","9bb6845206ea8f1dc8a43208e998d93c",0
+"4/16/2019 2:21","fraud_Langworth, Boehm and Gulgowski","shopping_net",8.43,"F","Campbell","NE",493,"Surveyor, minerals","9/13/1940","e5979b1823e7006b19169cbac31cb357",0
+"6/9/2019 23:49","fraud_Brown Inc","kids_pets",285.77,"F","Eureka","IL",6713,"Archivist","8/19/1945","19e82a896ae73d9f72eeacb73a195fec",0
+"5/2/2019 14:33","fraud_Leannon-Ward","food_dining",38.36,"F","Oolitic","IN",1228,"Counsellor","3/13/1991","d9982af1bef26c3b5861b3a657ed0341",0
+"6/27/2019 3:01","fraud_Schamberger-O'Keefe","grocery_pos",105.43,"F","Matthews","MO",1019,"Aeronautical engineer","1/26/1979","0297433350b6d6bd653e7a61f7802266",0
+"3/23/2019 23:32","fraud_Rippin-VonRueden","health_fitness",85.8,"M","Kensington","MD",19054,"Operations geologist","9/8/1976","ed9826ab4d7a8f4e349a836f0b406651",0
+"2/7/2020 9:52","fraud_Kunde-Sanford","misc_net",19.85,"F","Armagh","PA",922,"Early years teacher","10/4/1972","722c4e28d2836ecf75e161fb8110ce4f",0
+"1/11/2019 10:24","fraud_Kling Inc","gas_transport",44.16,"F","Cleveland","TX",34153,"Building surveyor","9/11/1995","1abdbda900ddd56d2f095fda51521cbe",0
+"5/11/2019 2:11","fraud_Ferry, Lynch and Kautzer","misc_net",4.74,"F","Thomas","OK",1675,"Barrister","5/1/1986","dc0b5c7c128db46e22de033c493f6866",0
+"3/24/2019 19:51","fraud_Gulgowski LLC","home",136.35,"F","Walnut Ridge","AR",7155,"Engineer, control and instrumentation","3/23/1977","7807d64c57e57b12d403aebf81dc7ef9",0
+"12/21/2019 16:17","fraud_Kozey-Kuhlman","personal_care",77.38,"M","West Harrison","NY",11250,"Lexicographer","8/16/1977","250bf1f84bed3e81c8cf1d8402351354",0
+"3/13/2019 7:49","fraud_Nienow PLC","entertainment",90.84,"M","South Richmond Hill","NY",47211,"Site engineer","2/1/1937","3527ef8ae5b0ae1359e8eb31dd017a5f",0
+"10/26/2019 9:40","fraud_Koss and Sons","gas_transport",48.43,"F","Cowlesville","NY",1166,"Colour technologist","6/12/1983","653cc63cb26366ad4cb351748008adc3",0
+"3/31/2019 2:43","fraud_Parker, Nolan and Trantow","entertainment",43.85,"F","Ash Flat","AR",2856,"Hydrologist","8/27/1926","5ebb1bc2668d42407ec44bc3c31236e7",0
+"9/25/2019 20:56","fraud_Rolfson-Kunde","personal_care",70.34,"F","Santa Monica","CA",92043,"Civil engineer, contracting","4/25/1961","9c8f2edc64f232ef11dacaa29c4e979d",0
+"12/23/2019 22:33","fraud_Streich, Rolfson and Wilderman","kids_pets",49.64,"F","Spirit Lake","ID",4161,"Production manager","6/12/1957","6d643ad3937e89b1bbf8951c7e3a247b",0
+"6/1/2019 23:34","fraud_Kuphal-Toy","food_dining",69.57,"M","Bryant","WI",1080,"Information systems manager","1/8/1979","bb99c3fac75a7d015b4b375336f4ac18",0
+"2/19/2020 14:31","fraud_Heathcote LLC","shopping_net",45.91,"F","Lithopolis","OH",460,"Lecturer, higher education","6/19/2004","b996793b8807d97c0c65d880663e6f13",0
+"9/16/2019 10:53","fraud_Kuphal-Toy","food_dining",38.79,"F","Whigham","GA",3430,"Editor, commissioning","3/25/1950","c7f04136777b8c325d47bdde03da9e10",0
+"12/11/2019 23:27","fraud_Eichmann-Kilback","home",97.58,"F","North Wilkesboro","NC",21134,"Dispensing optician","3/6/1984","f80a2787570c928e82cf3289b6024d3c",0
+"8/28/2019 21:30","fraud_Kautzer and Sons","personal_care",2.05,"F","Browning","MO",602,"Cytogeneticist","7/14/1954","4b74cd9985eeaee60b177480e031dd0c",0
+"12/9/2019 1:43","fraud_Friesen-Stamm","gas_transport",83.67,"M","San Diego","CA",1241364,"Chartered public finance accountant","8/5/1959","63715053d1614859d44b6225c03a9a89",0
+"2/3/2020 6:26","fraud_Roob LLC","grocery_net",42.6,"F","Grandview","TX",5875,"Radiographer, therapeutic","7/24/1992","74d2271c108160d4501b62602cf03be2",0
+"4/13/2019 11:23","fraud_Streich, Dietrich and Barton","shopping_net",76.7,"M","West Hartford","VT",140,"Development worker, community","10/28/1989","f226860e1cf4c8d6a4042aa8032abf9c",0
+"6/19/2019 21:11","fraud_Dare-Marvin","entertainment",86.75,"M","Muskegon","MI",128715,"Historic buildings inspector/conservation officer","5/25/1995","8c557c31c9c30934a212f48d1d2b4493",0
+"2/5/2019 19:00","fraud_Little, Gutmann and Lynch","shopping_net",9.66,"F","Orient","WA",149,"Special educational needs teacher","6/21/1978","640dae706d8ad6638e9cdd2362e8af7b",0
+"1/27/2020 13:40","fraud_Reichel LLC","personal_care",198.55,"F","Catawba","VA",1363,"Equality and diversity officer","8/23/1940","183737bb853aa1660decdfeae314488c",0
+"12/25/2019 7:24","fraud_Huels-Hahn","gas_transport",42.01,"F","Winger","MN",516,"Applications developer","6/7/1966","ea8f3b66cf95757f17ba13a5ae4ef6e4",0
+"12/18/2019 23:42","fraud_Macejkovic-Lesch","shopping_pos",126.39,"M","New Boston","IL",1504,"Manufacturing engineer","10/5/1993","0b8b4f28c94857da761635588b807a5f",0
+"1/11/2019 17:29","fraud_Adams-Barrows","health_fitness",125.43,"M","Kirk","CO",207,"Network engineer","12/4/1955","4c1c179d2655270f5dec85aa6d404d17",0
+"8/26/2019 12:35","fraud_Kuphal-Toy","food_dining",86.29,"M","Winfield","WV",5512,"Exhibition designer","3/24/1980","98d6afcb042c4606ecc97bcddcd6b9e7",0
+"4/6/2019 16:05","fraud_Kub-Heaney","health_fitness",21.73,"F","Ratcliff","TX",43,"Engineer, production","10/4/1949","4453215f6eee30510448b1c52f37beab",0
+"2/1/2020 13:25","fraud_Bernhard, Grant and Langworth","shopping_pos",3.91,"F","Smiths Grove","KY",6841,"Therapist, sports","6/6/1999","5a654caf68e422aa5372bac0f3741e36",0
+"2/27/2019 12:37","fraud_Brown Inc","kids_pets",17.72,"M","Cross Plains","TX",1897,"Chief Operating Officer","4/19/1953","376498ec8a4aa8766f0ca95c265ed0ec",0
+"11/8/2019 7:56","fraud_Kutch, Steuber and Gerhold","food_dining",20.06,"F","Blackville","SC",4913,"Technical brewer","11/10/1966","6a3fb89858654e62c4f0ebb65770ee30",0
+"12/29/2019 13:16","fraud_Bednar PLC","kids_pets",107.32,"M","Norman Park","GA",5666,"Rural practice surveyor","9/14/2003","e39817227f11283d7370c48bc07ffc7e",0
+"2/6/2020 6:57","fraud_Bahringer, Schoen and Corkery","shopping_pos",133.3,"M","West Hartford","VT",140,"Development worker, community","10/28/1989","be36e7ed91c6b38f0785c51e28757b44",0
+"9/10/2019 0:52","fraud_Stiedemann Inc","misc_pos",39.5,"M","Zaleski","OH",341,"Accounting technician","12/18/1978","d877db73112d5e1f2543f56e16473300",0
+"12/20/2019 9:21","fraud_Bernier, Streich and Jewess","grocery_net",42.21,"M","Mayersville","MS",595,"Technical brewer","9/3/1979","6d4721ac226ac820540e6a61bf557fea",0
+"5/25/2019 3:44","fraud_McGlynn-Jaskolski","misc_pos",34.79,"M","Leetsdale","PA",1140,"Administrator, education","6/20/1986","81984cedc7d948a4a8d6d5d47ddbcdb3",0
+"9/19/2019 21:25","fraud_Bahringer, Schoen and Corkery","shopping_pos",5.38,"F","Avoca","IA",2036,"Engineering geologist","8/20/1971","37f0ee436bd0260c48e3aa9daa033cfb",0
+"12/1/2019 22:30","fraud_Price Inc","shopping_net",850.36,"M","Lawrence","MA",76383,"Geoscientist","4/4/1985","b101a3f2e4087978ab0e3ddc5ae5568c",0
+"1/30/2020 13:52","fraud_Howe Ltd","misc_pos",381.05,"F","Matthews","MO",1019,"Aeronautical engineer","1/26/1979","3d684dda59881c5c820ca5696816b1b4",0
+"6/10/2019 18:39","fraud_Cole, Hills and Jewess","home",60.85,"M","Naples","FL",276002,"Programme researcher, broadcasting/film/video","1/2/1979","037a5d284c06ce24e358f0a8e7e3fd29",0
+"6/2/2019 18:58","fraud_Ernser-Feest","home",16.43,"M","Freedom","WY",471,"Education officer, museum","8/2/1967","a25103fc813ee3fb5550033dd1024849",0
+"1/15/2019 5:46","fraud_Schaefer, McGlynn and Bosco","gas_transport",62.7,"F","Providence","RI",203571,"Nurse, children's","11/29/1995","673467d71e50b3cf33416cd011b08336",0
+"3/6/2019 18:20","fraud_Wuckert-Goldner","home",36.78,"F","Napa","CA",94014,"Airline pilot","8/21/1985","1b4d68d715da4cb1fab9c4e3bd68e142",0
+"7/21/2019 12:07","fraud_Schoen, Nienow and Bauch","personal_care",110.99,"F","De Soto","KS",5760,"Chief Executive Officer","10/1/1978","792739c5da9af94312c843274860903e",0
+"12/31/2019 21:28","fraud_Brown Inc","kids_pets",16.43,"F","Reynolds","ND",733,"Visual merchandiser","11/12/1994","8c332204faf214d64b383e352fa6203b",0
+"4/6/2019 15:56","fraud_Hagenes, Kohler and Hoppe","food_dining",28.54,"M","Varnell","GA",74,"Pensions consultant","5/14/1944","d657f5f7cfcfbd2604c5c30971c436a3",0
+"1/5/2019 20:14","fraud_Ernser-Feest","home",2.8,"F","Amanda","OH",4512,"Farm manager","10/3/1992","55e1f61eed552272cb18169ac99b776c",0
+"2/22/2020 20:12","fraud_Kutch-Ferry","home",60.16,"F","Moravian Falls","NC",3495,"Psychologist, counselling","3/9/1988","d3babde13b15b0a3a3126b6c0d67577a",0
+"10/14/2019 7:33","fraud_Cummerata-Hilpert","entertainment",142.01,"M","Luzerne","MI",864,"General practice doctor","5/4/1942","c45f189d5e5b38789206b5fb7a176d8a",0
+"7/24/2019 10:30","fraud_Fisher Inc","shopping_net",89.97,"M","Atlantic","VA",741,"Geologist, engineering","8/17/1986","cff9fefc9033dfaeccf3c8f9d5cf713f",0
+"2/19/2019 7:03","fraud_Christiansen, Goyette and Schamberger","gas_transport",65.68,"M","Norwalk","CA",105549,"Firefighter","9/22/1973","e05dc2475648252bf92737bad9cad092",0
+"2/1/2020 9:43","fraud_Auer-Mosciski","grocery_pos",62.44,"M","Moab","UT",9772,"Location manager","11/24/1989","425ae2a7b76845416ea10886e31ccda8",0
+"7/5/2019 16:32","fraud_Walter, Hettinger and Kessler","personal_care",26.67,"F","Blooming Grove","TX",1563,"Financial adviser","3/4/1978","8409163c2aa83d44e40668f36090b8d6",0
+"6/6/2019 21:05","fraud_Cruickshank-Mills","entertainment",9.45,"M","Benton","WI",1306,"Public relations officer","9/10/1958","3acdaa0d3c23185b6149da687650a459",0
+"11/13/2019 23:22","fraud_Goyette, Howell and Collier","shopping_pos",6.56,"M","Heiskell","TN",4729,"Geologist, wellsite","4/19/1982","deb27727eec9f073c603c79b49727430",0
+"5/20/2019 16:36","fraud_Breitenberg LLC","travel",9.88,"M","Lawrence","MA",76383,"Geoscientist","4/4/1985","06f2dfa2103196896d89621fde598b35",0
+"12/11/2019 15:45","fraud_Leannon-Ward","food_dining",55.46,"M","Bessemer","AL",71463,"Radio broadcast assistant","2/8/1989","7b87c0e6eb1b95fbfa7cb72fd264ecd9",0
+"12/7/2019 14:45","fraud_Quitzon, Green and Bashirian","shopping_pos",160.02,"F","Battle Creek","IA",1075,"Teacher, early years/pre","1/2/1997","6772af955f39427c621ef2024c134482",0
+"12/6/2019 14:23","fraud_Stanton, Jakubowski and Baumbach","shopping_net",26.78,"M","Murrayville","IL",1512,"Commercial/residential surveyor","5/7/2003","79bd8083130c302be78b0c173e767712",0
+"2/3/2019 7:55","fraud_Prohaska-Murray","gas_transport",54.52,"F","Sutherland","NE",1789,"Insurance broker","2/11/1982","0354f665729e596568eb25bb4e04d5e6",0
+"6/29/2019 3:22","fraud_Dickinson-Rempel","misc_pos",3.5,"F","East Andover","ME",190,"Animal nutritionist","4/17/1970","58f5f1e5c992ad77d32c4adad2bdccaf",0
+"1/9/2019 14:06","fraud_Cartwright PLC","kids_pets",109.24,"F","Avoca","IA",2036,"Engineering geologist","8/20/1971","2efef3aa4f46493c44009aacb6f42b31",0
+"4/8/2019 7:01","fraud_Zboncak, Rowe and Murazik","shopping_net",28.85,"F","Marietta","SC",5648,"Museum/gallery exhibitions officer","10/6/1934","8672e6ea2bcd70c41d075d7b94b28d16",0
+"11/16/2019 13:00","fraud_Nienow PLC","entertainment",61.46,"M","Manderson","SD",1126,"Volunteer coordinator","8/18/1980","20597e2755cbf1cce479b8e6a30687b2",0
+"6/1/2019 12:49","fraud_Dibbert and Sons","entertainment",31.28,"F","Oran","IA",53,"Sports administrator","10/5/1972","99b0f1df5527282661a2f7c485e51be3",0
+"7/11/2019 16:00","fraud_Rau-Robel","kids_pets",49.1,"M","West Hartford","VT",140,"Development worker, community","10/28/1989","7a53ec61f9cf985c0867c872808d37a9",0
+"5/19/2019 2:15","fraud_Conroy-Cruickshank","gas_transport",62.35,"M","Hudson","NY",17867,"Travel agency manager","7/29/1998","fa24f522d4a108452f1b2696b9d74df1",0
+"11/11/2019 9:07","fraud_Pfeffer and Sons","shopping_pos",149.4,"M","Lamberton","MN",1507,"Land/geomatics surveyor","10/12/1993","a1dfe14cbbb38fff26abc1105043c9fe",0
+"3/30/2019 9:25","fraud_Boehm, Block and Jakubowski","misc_pos",5.78,"F","Adams","WI",3508,"Sport and exercise psychologist","8/11/1946","94f0a4b3911fbc413615688f9ec4ed36",0
+"4/5/2019 8:40","fraud_Cummerata-Jones","gas_transport",77.39,"M","Pueblo","CO",151815,"Further education lecturer","1/4/1988","8136f8fc9f5efeac1b24d71c1b900018",0
+"6/27/2019 20:36","fraud_Bruen-Yost","misc_pos",101.51,"M","Monmouth Beach","NJ",3279,"Health promotion specialist","10/5/1978","79edbbb363a606c545878843fcfb470b",0
+"5/27/2019 11:03","fraud_Casper, Hand and Zulauf","grocery_pos",35.23,"M","Washington","DC",601723,"Psychotherapist, child","2/4/1991","8c9f8b6bb110aa31e98275651c87e5b7",0
+"3/29/2019 4:24","fraud_Huel, Hammes and Witting","grocery_pos",207.06,"F","Kingsport","TN",87124,"Warden/ranger","2/14/1987","4e5c8c42722e1cb23e966de42020873e",0
+"7/12/2019 17:45","fraud_Hamill-D'Amore","health_fitness",67.33,"F","Lawn","PA",213,"Special educational needs teacher","2/15/1972","88208f11a9700fa72ea36734748a18ee",0
+"7/6/2019 15:00","fraud_Schaefer, Fay and Hilll","entertainment",171.48,"F","Cisco","IL",478,"Landscape architect","1/13/1960","cca7e40a70363da37c522969d54a91b3",0
+"3/5/2020 16:26","fraud_Heathcote, Yost and Kertzmann","shopping_net",335.72,"F","Houston","TX",2906700,"Copywriter, advertising","12/16/1984","5589b1ea837f5dcc2692f0384927ac9e",0
+"12/9/2019 1:51","fraud_Ledner-Pfannerstill","gas_transport",49.7,"F","Miamisburg","OH",36784,"Investment banker, corporate","7/31/1941","613b79379eb6d4ba21f0345a628a7cd9",0
+"12/3/2019 9:12","fraud_Wolf Inc","grocery_pos",86.93,"M","Stoneham","MA",21437,"Artist","6/25/1964","db6899b51e743d87ff91b9577c9ebe1b",0
+"6/17/2019 22:10","fraud_Roob-Okuneva","health_fitness",25.15,"M","Cass","WV",365,"Special effects artist","3/14/1970","0d47d3aece9b14e1c9ac1e5df3d7a48b",0
+"3/16/2019 5:26","fraud_O'Keefe-Hudson","grocery_pos",187.82,"F","Tyler","TX",144160,"Sports development officer","5/4/1984","af097006a59673634c775cb1ffd70489",0
+"12/23/2019 9:23","fraud_Schmidt and Sons","shopping_net",334.2,"F","Veedersburg","IN",4049,"Development worker, community","10/19/1959","ac468498d0617cac6141cf5668772141",0
+"3/24/2019 13:07","fraud_Hoppe-Parisian","kids_pets",94.49,"F","Manchester","MD",11751,"Clinical research associate","2/15/1964","f8ae6e1c4192fa8f6d17f9646ebd5d8a",0
+"10/27/2019 18:16","fraud_Daugherty-Thompson","food_dining",5.99,"M","Southfield","MI",75830,"Engineer, automotive","12/28/1974","0f6b2fcdc96ff98c4dca026a46fd234a",0
+"6/1/2019 12:16","fraud_Nienow, Barrows and Romaguera","personal_care",30.85,"F","Hurricane","WV",21902,"Sub","9/18/1980","88bab2e4cbddca59f8f1834c4e7bdcb9",0
+"12/8/2019 20:49","fraud_Zulauf LLC","personal_care",48.13,"M","Waukesha","WI",95015,"Therapist, occupational","1/2/1946","fa9264f0ae7c01444bff17d4aae64d4f",0
+"6/22/2019 2:09","fraud_Wilkinson Ltd","entertainment",56.18,"M","Edinburg","VA",6018,"Designer, multimedia","8/21/1947","c1a28d72a6ae6c32e6a3e60470d62a78",0
+"6/19/2019 2:25","fraud_Boyer PLC","shopping_net",7.73,"F","Camden","TX",99,"Colour technologist","11/21/1965","7f611c48cc074ea2e60c5415aa120b28",0
+"1/25/2020 3:37","fraud_Harris Inc","gas_transport",86.37,"M","Leo","IN",5341,"Biomedical engineer","11/24/1994","7340b06c3c28a3d41366b7981ca728bb",0
+"1/5/2020 1:13","fraud_Schuppe-Schuppe","food_dining",152.57,"F","West Columbia","SC",52126,"Chemical engineer","8/23/1929","a3f6f5b25ccd78a5f5001d5d8a9d108b",0
+"5/25/2019 5:06","fraud_Block-Parisian","misc_net",7.34,"F","Hooper","NE",1745,"Engineer, automotive","12/26/1973","d85810008b7e74254efb52c487ea6709",0
+"12/8/2019 1:20","fraud_Luettgen PLC","gas_transport",57.99,"M","Bowdoin","ME",3224,"Engineer, electronics","8/22/1997","69cbeb4262eb7bbd0184f9540c155b3c",0
+"10/30/2019 22:55","fraud_Bradtke, Torp and Bahringer","personal_care",38.8,"F","New Ellenton","SC",2206,"Biomedical scientist","12/31/1986","985f8d61ea3dad9cf5302e35422ad4f8",0
+"7/6/2019 13:51","fraud_Bode-Rempel","kids_pets",44.35,"M","Fenelton","PA",2054,"Communications engineer","9/29/1976","a993f36b490387a775e5b4a041087a0d",0
+"6/2/2019 22:28","fraud_Harris Group","food_dining",5.49,"M","High Rolls Mountain Park","NM",899,"Naval architect","8/30/1967","d8c08b8a6f0868309149621d439113b9",0
+"4/28/2019 15:45","fraud_Kassulke PLC","shopping_net",5.58,"F","Cherokee Village","AR",4726,"Pharmacologist","6/7/1977","7c247b3178827fca0a9c6ca44af80508",0
+"1/14/2019 8:14","fraud_Schultz, Simonis and Little","grocery_pos",96.88,"M","Helm","CA",123,"Early years teacher","2/7/1973","8c270484e317f2832d0757b45f824730",0
+"8/26/2019 21:49","fraud_Cartwright PLC","kids_pets",116.31,"F","Rule","TX",932,"Physicist, medical","12/10/1954","899e1f1b3d07f1f6d311add69c380a9a",0
+"2/24/2019 17:38","fraud_Swift PLC","kids_pets",52.85,"M","Elkhart","IA",1195,"Trading standards officer","3/13/1974","91c00454424120611b892fc22ffbb862",0
+"9/2/2019 12:38","fraud_Thompson-Gleason","health_fitness",80.89,"F","Enola","AR",969,"Physicist, medical","1/5/1954","56266196930f95e5894d9dd6725aeccf",0
+"1/4/2020 13:10","fraud_Schmeler, Bashirian and Price","shopping_net",8.62,"F","Lawn","PA",213,"Special educational needs teacher","2/15/1972","42890c2d317eb140dde6c01f40faa17c",0
+"5/12/2019 13:36","fraud_Romaguera, Wehner and Tromp","kids_pets",58.24,"M","Moriarty","NM",7268,"Therapist, art","8/4/1988","eb93336abff84fc8885a8d4393a5361b",0
+"1/20/2020 1:54","fraud_Kuhic, Bins and Pfeffer","shopping_net",14.5,"F","Eureka","IL",6713,"Archivist","8/19/1945","78480c708765a4143178087744e54d40",0
+"12/24/2019 23:20","fraud_Yost, Schamberger and Windler","kids_pets",19.21,"M","Edinburg","VA",6018,"Designer, multimedia","8/21/1947","f3e8ec1eb313a7792f82e24677efc558",0
+"6/20/2019 3:21","fraud_Lockman Ltd","grocery_pos",83.16,"M","Manderson","SD",1126,"Volunteer coordinator","8/18/1980","3cd9c00dbfb0593d2930af5cea722ec5",0
+"2/1/2019 3:31","fraud_Baumbach, Feeney and Morar","shopping_net",3.09,"M","Andrews","IN",2304,"Retail banker","7/25/1955","393197f5df9e9184b03519628c5491ba",0
+"6/5/2019 6:28","fraud_Lakin, Ferry and Beatty","food_dining",46.17,"M","Fairview","NJ",13835,"Programmer, multimedia","5/28/1967","527cf77ee8952682d841b20832039b21",0
+"8/15/2019 20:34","fraud_Jacobi and Sons","shopping_pos",3.31,"F","Bradley","SC",1523,"Research scientist (physical sciences)","6/3/1984","5392eadd761a019298a0ca0faf2259ae",0
+"11/13/2019 15:05","fraud_Witting, Beer and Ernser","home",77.35,"M","Ferney","SD",52,"Bookseller","5/22/1990","59d55fb4a1714ca1d9b62e58e42caa61",0
+"11/10/2019 15:52","fraud_Pollich LLC","home",32.78,"M","Mounds","OK",7163,"Fitness centre manager","2/5/1982","994077d43430d3d5151bc5f1fa6d27bf",0
+"2/23/2019 14:16","fraud_Predovic Inc","shopping_net",4.19,"F","Thompson","UT",46,"Surveyor, minerals","4/23/1987","eee4b3d8907ee421e7df32246bb2f535",0
+"5/24/2019 10:50","fraud_Moen, Reinger and Murphy","grocery_pos",86.45,"M","Tuscarora","MD",100,"Production assistant, television","12/11/1979","ccff044d1580bc3671e1278bd46d7c36",0
+"3/6/2020 18:08","fraud_Sporer-Keebler","personal_care",2.23,"F","Phoenix","AZ",1312922,"Counselling psychologist","11/30/1999","4319726cbaf417ca7ed5d64f874f5ad8",0
+"5/5/2019 16:03","fraud_Pouros-Conroy","shopping_pos",15.31,"F","Sutherland","NE",1789,"Insurance broker","2/11/1982","d24fe692d2c4efe20ac84eb4c837dc75",0
+"1/29/2019 1:51","fraud_Rodriguez Group","gas_transport",62.43,"M","Big Indian","NY",397,"Psychiatrist","9/12/1931","db20d5e6d0128a087b2a12c0e7c0e3db",0
+"10/13/2019 2:46","fraud_Welch Inc","misc_net",218.84,"F","Dunlevy","PA",427,"Mining engineer","2/5/1951","c423b12cd867dcbcd9597c8072600f88",0
+"4/21/2019 7:07","fraud_Eichmann, Bogan and Rodriguez","gas_transport",39.47,"M","High Rolls Mountain Park","NM",899,"Naval architect","8/30/1967","cafe4ee3d62b31c59e9a66a6758f761a",0
+"1/22/2019 22:06","fraud_Berge-Ullrich","home",44.24,"M","Newark Valley","NY",4354,"Further education lecturer","2/16/1994","1befa4b3a0de01cd33907b8b59af1c27",0
+"5/16/2019 15:13","fraud_Schoen Ltd","kids_pets",47.02,"M","Montandon","PA",645,"Orthoptist","5/18/1974","c17b60c34e16950ce27adc564a0af402",0
+"6/23/2019 22:50","fraud_Dare, Casper and Bartoletti","kids_pets",47.57,"M","Lohrville","IA",695,"Administrator","7/15/1954","01a716c85e722a40eb584ba181e52881",0
+"8/15/2019 7:50","fraud_Stiedemann Ltd","food_dining",284.37,"M","Stillwater","OK",55345,"Cabin crew","5/1/1948","5a91a26c02ec585c7940632644b6bbda",0
+"4/28/2019 5:26","fraud_Wolf Inc","grocery_pos",227.98,"F","Lowville","NY",8830,"Theme park manager","3/29/1991","26b308a2df57be2a3f4aed9e5a1b8ab3",0
+"4/7/2019 2:23","fraud_Erdman-Kertzmann","gas_transport",56.41,"F","Altair","TX",106,"Editor, film/video","7/24/1983","77ab158c9d1391b7c1a1d948ed17d356",0
+"8/4/2019 6:38","fraud_Stehr, Jewess and Schimmel","misc_net",156.63,"M","Saint Francis","KY",301,"Research officer, political party","3/17/1967","475b82fc1b8dff854f1b8f29e4f97534",0
+"3/29/2019 7:04","fraud_Brekke and Sons","gas_transport",37.99,"F","Brunson","SC",1725,"Social researcher","12/5/1974","028b19672cddaa0d0905d9f90e90334a",0
+"3/5/2019 14:53","fraud_Hettinger, McCullough and Fay","home",35.28,"M","Oconto Falls","WI",5548,"Mining engineer","9/11/1975","3de1a0b223356fea64a2b3c449631d2a",0
+"9/28/2019 18:18","fraud_Waelchi Inc","kids_pets",44.28,"F","Meridian","TX",2526,"Phytotherapist","11/12/1970","47110e1b23869d68d2298934a79989c8",0
+"3/18/2019 11:52","fraud_Zboncak, Rowe and Murazik","shopping_net",40.92,"M","Seneca","WI",153,"Quantity surveyor","2/14/1962","c396d8187fb1050d9b62e57310402e73",0
+"5/22/2019 21:13","fraud_Zulauf LLC","personal_care",58.59,"F","Leonard","TX",4090,"Sub","3/23/1977","d44513b889eeb3894203070c2def9015",0
+"4/15/2019 13:58","fraud_Berge-Ullrich","home",7.87,"F","Winger","MN",516,"Applications developer","6/7/1966","13accd9b6142b1e2f146408e34f7d774",0
+"10/14/2019 22:50","fraud_Hills-Witting","shopping_net",909.98,"F","Colton","WA",761,"Chief Marketing Officer","6/30/1943","e9e700a12f4b7b70c82e3909f713d7eb",1
+"3/8/2019 22:14","fraud_Schulist Ltd","food_dining",46.59,"F","Tupper Lake","NY",6120,"Chartered loss adjuster","10/9/1976","aa9a9b0e2c6fdab4c0bf4ebb8109a311",0
+"5/28/2019 0:37","fraud_Bechtelar-Rippin","food_dining",72.91,"M","Watertown","MN",5619,"Licensed conveyancer","1/15/1959","fbbec3dc1b0f4b692f1f1e529b615612",0
+"12/18/2019 18:20","fraud_Effertz LLC","entertainment",30.81,"F","Lowell","OR",1420,"Systems analyst","11/11/1965","de10c13046e6e567fc3b9b1826629b8f",0
+"5/5/2019 21:59","fraud_Friesen-Ortiz","personal_care",166.84,"M","Omaha","NE",518429,"Surveyor, land/geomatics","10/10/1995","727ae5051d9f26d5bc2c9bcbd21f3228",0
+"12/19/2019 7:57","fraud_Schmitt Inc","gas_transport",71.63,"M","Aurora","CO",389246,"Scientist, marine","12/12/1969","f8ddd9981807d46cc2c9e4b9d4b6fd63",0
+"9/5/2019 17:03","fraud_Jacobi and Sons","shopping_pos",2.23,"M","Lonsdale","MN",5211,"Chief Strategy Officer","1/27/1987","883e0f0f4ea6d9f44d80d6b3d06da98c",0
+"12/15/2019 23:40","fraud_Kling, Howe and Schneider","home",32.48,"F","Plainfield","NJ",71485,"Leisure centre manager","7/19/1974","6e8fa2fd8c14f3cb46ae33c1f65e4efb",0
+"6/23/2019 4:09","fraud_Jaskolski-Dibbert","grocery_net",44.54,"F","Sebring","FL",50835,"Environmental consultant","1/30/1986","cc7370857fd7401cfaa7712c0e64397b",0
+"1/1/2020 8:07","fraud_Kutch LLC","gas_transport",31.26,"M","Hatch","UT",258,"Geoscientist","11/24/1961","7c670c179576223ebe79f905a3f5db8f",0
+"6/27/2019 14:20","fraud_Schoen-Quigley","kids_pets",35.3,"M","Chester","MD",5848,"Paediatric nurse","2/15/1981","53cbdf5afa089498602f16b90978c58c",0
+"8/21/2019 23:12","fraud_Champlin-Casper","home",104.02,"M","Naples","FL",276002,"Programme researcher, broadcasting/film/video","1/2/1979","8344976ad2b8dbc8882627e176679cbc",0
+"6/25/2019 6:36","fraud_Brekke and Sons","gas_transport",57.31,"F","Blairstown","MO",467,"Agricultural consultant","5/27/1950","edecd5de8db241b2de1e2e5db3f965c9",0
+"12/9/2019 0:27","fraud_Schaefer, Maggio and Daugherty","gas_transport",40.58,"F","Galatia","IL",1943,"Restaurant manager, fast food","10/19/1971","c619b3df1b0d034b6c90f9b1ed1f1053",0
+"8/27/2019 21:40","fraud_Cronin, Kshlerin and Weber","health_fitness",18.73,"M","Sachse","TX",20328,"Site engineer","6/20/1985","0802f74a0cf0faa0d05a3c5a59be8e5a",0
+"5/22/2019 14:42","fraud_Reilly LLC","home",15.32,"F","Leonard","TX",4090,"Sub","3/23/1977","84e728c2ffea95b9b66000f9a085cb7e",0
+"3/9/2019 15:54","fraud_Hills, Hegmann and Schaefer","health_fitness",102.67,"F","Roosevelt","OK",551,"Amenity horticulturist","9/27/1970","7e7fed760b7bacef31f604b130406728",0
+"3/2/2019 0:40","fraud_Wolf Inc","grocery_pos",60.01,"M","Glendale","CA",172817,"Advertising account planner","7/30/1982","3576ad6497d95bd9cb64f82bae4b206d",0
+"12/8/2019 5:28","fraud_Moen, Reinger and Murphy","grocery_pos",118.12,"M","Margaretville","NY",1988,"Environmental health practitioner","5/23/1978","f38f96e71df59869a757060e98de3ede",0
+"10/19/2019 14:59","fraud_Altenwerth-Kilback","home",5.39,"F","Nobleboro","ME",1643,"Financial trader","4/12/1976","4084a36f5746edeefca25edb0ffe4ca8",0
+"8/9/2019 9:44","fraud_Huels-Nolan","gas_transport",58.65,"F","Enola","AR",969,"Physicist, medical","1/5/1954","c40973a8b92a641d818018a25e48ba63",0
+"6/27/2019 15:13","fraud_Ruecker-Mayert","kids_pets",50.28,"M","Kissee Mills","MO",1201,"Engineer, agricultural","3/18/1980","c88625842c853b0fe31ee999079e6d26",0
+"1/11/2020 8:41","fraud_Kovacek, Dibbert and Ondricka","grocery_pos",138.48,"M","Tyaskin","MD",470,"Music tutor","4/7/1965","1938bede6a48abd21af6fdb30bdb9c64",0
+"9/1/2019 3:22","fraud_Pacocha-O'Reilly","grocery_pos",97.93,"F","O Brien","TX",178,"Warden/ranger","6/14/1983","15cbfc294f33ccafdcc41306b563099d",0
+"12/15/2019 8:30","fraud_Roob, Conn and Tremblay","shopping_pos",6.93,"F","Goreville","IL",3119,"Teacher, secondary school","4/17/1942","ecf0289fc031656c50de6cffdcadf28c",0
+"12/1/2019 7:52","fraud_Heidenreich PLC","grocery_pos",107.75,"F","Naples","FL",276002,"Medical technical officer","12/14/1950","90bc163573f0bb7d188281f263ef6649",0
+"9/2/2019 20:53","fraud_Weber, Thiel and Hammes","kids_pets",48.77,"M","Port Ewen","NY",2471,"Heritage manager","1/21/1966","9e89b693a1be8c194113f0ca788ff5fd",0
+"2/12/2020 1:42","fraud_Kemmer-Reinger","grocery_net",45.4,"M","Rock Glen","PA",143,"Health and safety adviser","2/19/1982","fd7db2e2af66a22dc80211a67d45f370",0
+"3/4/2020 10:09","fraud_Kling Inc","gas_transport",50.42,"F","Centerview","MO",2368,"Electronics engineer","7/17/1989","fa68095a2484f9c905b17fe880260786",0
+"8/17/2019 11:00","fraud_Koepp-Parker","grocery_pos",177.69,"M","Kirk","CO",207,"Network engineer","12/4/1955","e232b22b317962ca0ea771ffba7ec99e",0
+"12/30/2019 4:53","fraud_Kling Inc","gas_transport",56.77,"F","Barnstable","MA",1850,"Counselling psychologist","12/29/1963","088610dc1baa5e3cac742e82ad4fdb24",0
+"9/7/2019 19:32","fraud_Bode-Rempel","kids_pets",96.11,"F","Jay","FL",5719,"Higher education careers adviser","11/5/1994","40ec91b774a277ec33b37731c5c45d32",0
+"12/29/2019 4:07","fraud_Lesch Ltd","shopping_pos",3.57,"M","Pewee Valley","KY",3263,"Stage manager","2/28/1930","08342036ca3044f2b3d81dd07d4ecef6",0
+"3/9/2019 3:12","fraud_Kilback LLC","grocery_pos",75.59,"M","Oakdale","NY",9506,"Biochemist, clinical","4/13/1953","dbe14b90408fa0ea283f8c5faba2c0f6",0
+"9/3/2019 21:25","fraud_Baumbach, Strosin and Nicolas","shopping_pos",5.56,"M","Monmouth Beach","NJ",3279,"Health promotion specialist","10/5/1978","3c07b4aecb392c59579075b481bba308",0
+"12/10/2019 19:01","fraud_Bauch-Blanda","entertainment",142.05,"M","Lawrence","MA",76383,"Geoscientist","4/4/1985","8ea642ebe6e8712aa8e10d66c01d1d39",0
+"10/29/2019 22:59","fraud_Gottlieb Group","kids_pets",1.3,"F","Nobleboro","ME",1643,"Financial trader","4/12/1976","a2cc35518b1e61771c160387a9644c63",0
+"10/12/2019 3:12","fraud_Hills-Witting","shopping_net",4.13,"F","Saint Louis","MO",927396,"Occupational hygienist","3/12/1960","e2515920209a9063aad7b539a56dfdd2",0
+"9/12/2019 14:06","fraud_Waters-Cruickshank","health_fitness",61.17,"F","Haynes","AR",222,"Programmer, applications","5/19/1963","56034cb9ecee2e5a7bcbb054bdba273b",0
+"12/24/2019 1:14","fraud_Doyle Ltd","grocery_pos",92.18,"M","Christine","ND",291,"Television floor manager","5/1/1991","d4ac8b447b3ed279b0da104c87cb0b23",0
+"3/6/2019 6:53","fraud_Kuhic LLC","shopping_net",9.33,"M","Greenwich","NJ",804,"Insurance risk surveyor","3/25/1965","5f7d70d7ae16b3da319b8d1c84f1ca1f",0
+"3/3/2020 22:55","fraud_Reichert, Rowe and Mraz","shopping_net",2.55,"F","Paauilo","HI",1490,"Scientist, research (maths)","4/13/1991","6bfa6f07c6b2fcc385e07ebf1182566f",0
+"9/9/2019 19:49","fraud_Towne, Greenholt and Koepp","shopping_net",5.34,"F","Ronceverte","WV",4575,"Statistician","10/22/1991","f594c6d568bd00aa710b634cf4645fa1",0
+"3/7/2020 12:56","fraud_Cole, Hills and Jewess","home",19.95,"F","Marathon","TX",498,"Lexicographer","11/23/1990","5d3c24d09759bd1183d20a49b77f7582",0
+"9/18/2019 1:02","fraud_Bartoletti-Wunsch","gas_transport",80.66,"F","Stanchfield","MN",2607,"Lecturer, further education","12/4/1995","679e0c6ab892e060adcb553b7c65057a",0
+"12/6/2019 2:25","fraud_Rempel Inc","shopping_net",93.32,"M","Acworth","NH",477,"Naval architect","4/15/1988","fa57516d86cc769a8ea357c06511a26c",0
+"1/24/2019 19:30","fraud_Prosacco, Kreiger and Kovacek","home",56.68,"M","Dallas","TX",1263321,"Drilling engineer","6/28/1959","c1c576de31be0d10d1ed1397c3dbfe04",0
+"2/9/2019 7:46","fraud_Ruecker, Beer and Collier","shopping_net",5.3,"M","Greenwich","NJ",804,"Insurance risk surveyor","3/25/1965","328b19161eb680628cf2b48e12f9bb29",0
+"1/8/2019 17:59","fraud_Jerde-Hermann","travel",2.55,"M","Paint Rock","AL",653,"Paediatric nurse","6/19/1966","987c92a60f1a8f5adfe1d4420966a258",0
+"12/16/2019 20:51","fraud_Zemlak, Tillman and Cremin","personal_care",100.49,"M","Mooresville","NC",69793,"Control and instrumentation engineer","12/8/1953","e7509135b0e26724530399af832f9f25",0
+"6/8/2019 0:09","fraud_Boyer-Reichert","shopping_net",23.35,"F","Sturgis","MS",1923,"Medical physicist","1/16/1960","6ace8ad36ccc00d5a2516cc48b112e54",0
+"1/22/2019 14:02","fraud_Shanahan-Lehner","personal_care",20.52,"M","Ragland","AL",4159,"Educational psychologist","2/3/1998","8563f6db53dec16754a014a9c6f6dcdd",0
+"10/14/2019 20:33","fraud_Larkin Ltd","kids_pets",100.71,"F","White Sulphur Springs","WV",5216,"Community development worker","10/5/1993","cc6a484ecf97f3bb225ab7ba62ca80ad",0
+"6/12/2019 18:14","fraud_Padberg-Sauer","home",48.04,"F","Littleton","CO",320420,"Water engineer","7/31/1975","559bd7c79cf93d845670af12294fe10a",0
+"6/15/2019 10:05","fraud_Rau and Sons","grocery_pos",134.18,"M","Ruth","NV",450,"Interpreter","8/24/1946","1aaf8ffed139eaf3c6983571988f6782",0
+"6/13/2019 16:06","fraud_Schmidt-Larkin","home",62.04,"M","Holliday","TX",2317,"Chief Technology Officer","8/23/1964","eec6f2011a89f05f3773bda0e069d5a4",0
+"10/1/2019 20:14","fraud_Daugherty LLC","kids_pets",112.37,"F","Red River","NM",606,"Surveyor, land/geomatics","9/6/1988","d5d86ce88a914a8bae790d641a5d1bc0",0
+"1/1/2019 21:43","fraud_Lubowitz-Walter","kids_pets",54.98,"M","Fort Washakie","WY",1645,"Freight forwarder","2/26/1976","cb130a5560a8593c43612c21ef9808c2",0
+"9/11/2019 18:49","fraud_Rau-Grant","kids_pets",219.09,"M","Mc Veytown","PA",4653,"Nutritional therapist","7/1/1997","667234efa54e7f82747eeddd7f63038f",0
+"9/23/2019 23:29","fraud_Botsford and Sons","home",84.97,"F","Port Gibson","NY",207,"Database administrator","9/27/1962","c6f1066ed5b6e5b3bb0d7ccdb32148ae",0
+"3/15/2019 11:14","fraud_Pacocha-O'Reilly","grocery_pos",101.56,"F","Halstad","MN",771,"Scientist, audiological","6/14/1972","e1d3e92ee10262846f8297ed498332d5",0
+"7/28/2019 8:43","fraud_Lind, Huel and McClure","gas_transport",59.51,"M","Hatch","UT",258,"Geoscientist","11/24/1961","c05e3b51293a98b3ee05b50377e03ad1",0
+"10/17/2019 2:58","fraud_Zieme, Bode and Dooley","gas_transport",63.79,"F","Heart Butte","MT",743,"Water engineer","5/4/1972","557160f010dc5876ad101627199702cf",0
+"8/15/2019 17:25","fraud_Witting, Beer and Ernser","home",35.42,"M","Haines City","FL",33804,"Exercise physiologist","1/1/1991","e2a6e9cc4064ff1688fce3681fa6c183",0
+"4/7/2019 9:05","fraud_Moen, Reinger and Murphy","grocery_pos",134.08,"F","Gadsden","AL",67082,"Physiological scientist","2/9/1963","6601af3cca89671bc338b09e07a0ef39",0
+"3/6/2020 0:57","fraud_Berge LLC","gas_transport",51.97,"F","Barneveld","NY",1684,"IT trainer","3/1/1994","e8eb29b4ee52cb7ac948577f5e80fb1f",0
+"3/4/2020 23:32","fraud_Bahringer-Streich","food_dining",3.73,"F","Blairsden-Graeagle","CA",1725,"Chartered legal executive (England and Wales)","5/27/1967","81cff8b3ba3e97e911aea0f3f5656733",0
+"7/21/2019 12:34","fraud_Maggio-Fahey","misc_pos",16.46,"F","Bauxite","AR",4074,"Scientist, audiological","12/20/1975","d76a727af9edef34ef5a2494e34b38df",0
+"4/4/2019 7:31","fraud_Roob LLC","grocery_net",14.38,"F","Birmingham","IA",888,"Camera operator","3/25/1988","69e6266bfc129a78a842d7474a723f3a",0
+"12/23/2019 14:53","fraud_Hermiston, Russel and Price","food_dining",7.75,"F","Pembroke Township","IL",2135,"Psychotherapist, child","5/8/2004","f1958e0124568c92735ea8b5652aa185",0
+"1/14/2020 9:55","fraud_Torp-Labadie","gas_transport",48.43,"F","Scotland","MD",313,"Insurance underwriter","3/26/1976","0ed2f2a574915826476f5e22dfe80df9",0
+"1/8/2019 10:48","fraud_Torp-Labadie","gas_transport",81.68,"M","Humble","TX",194500,"Tax adviser","12/18/1990","438a45848cdbe5ce06f140f4e309ca24",0
+"7/12/2019 13:14","fraud_Fahey Inc","kids_pets",64.58,"F","Santa Monica","CA",92043,"Civil engineer, contracting","4/25/1961","0967d24a9d3f40d88338fd977b96e1a1",0
+"9/20/2019 18:20","fraud_Mayert Group","shopping_pos",8.1,"F","Smiths Grove","KY",6841,"Therapist, sports","6/6/1999","e5fedfd7bcdd8b41a07f979e9babfecf",0
+"5/5/2019 12:38","fraud_Spencer PLC","entertainment",105.89,"F","Brandon","VT",5895,"Scientist, marine","7/13/1975","e611a0b1f324afc69fb6c3b960dbd680",0
+"3/6/2019 15:55","fraud_Gutmann, McLaughlin and Wiza","home",19.97,"F","O Brien","TX",178,"Warden/ranger","6/14/1983","d245f0aee0ea915b0f340e1e37090a21",0
+"11/25/2019 16:20","fraud_Hettinger, McCullough and Fay","home",2.92,"M","Holliday","TX",2317,"Chief Technology Officer","8/23/1964","c5603e67108de54238a79ecec4751396",0
+"6/16/2019 21:51","fraud_Fadel Inc","health_fitness",15.9,"F","Fulton","SD",355,"Financial adviser","6/26/1955","8dd22eac157500952af0685d02280d7e",0
+"7/28/2019 19:13","fraud_Gleason and Sons","kids_pets",38.8,"M","Big Indian","NY",397,"Psychiatrist","9/12/1931","413042943f0df23b708345aaf0fb6d11",0
+"11/23/2019 12:19","fraud_Veum-Koelpin","travel",7.74,"F","Goodrich","MI",6951,"Learning disability nurse","6/18/1985","567d7c85c92b9ad0289abfb97eeb7d57",0
+"9/21/2019 11:04","fraud_Murray-Smitham","grocery_pos",160.92,"F","Dell City","TX",579,"Hydrogeologist","11/26/1945","e3262ee2eaefd6ac75c9014746a8325d",0
+"8/26/2019 15:45","fraud_Champlin-Casper","home",78.25,"M","Shelter Island","NY",1858,"Clinical biochemist","3/3/1984","b0c9b472171d751e607188ef042daf6d",0
+"2/2/2020 11:47","fraud_Torp-Labadie","gas_transport",48.58,"M","Brashear","MO",805,"Private music teacher","6/27/1970","15c1966b9e76abc54eacaf7ecc239a94",0
+"4/11/2019 7:30","fraud_Howe Ltd","misc_pos",95.27,"F","Sun City","CA",54287,"Designer, exhibition/display","9/22/1972","dcdf6c041187c6042ef091007ef7cfe2",0
+"8/28/2019 21:57","fraud_Labadie LLC","personal_care",68.2,"F","Meridian","TX",2526,"Phytotherapist","11/12/1970","15c53a0100fd2de125e6176b866a8566",0
+"12/1/2019 8:29","fraud_Conroy-Cruickshank","gas_transport",59.25,"M","Kensington","MD",19054,"Operations geologist","9/8/1976","800ef81838ba3097e090381624cd97dc",0
+"3/3/2019 17:26","fraud_Howe PLC","entertainment",125.96,"F","Odessa","MO",9512,"Clinical research associate","12/31/1972","36bbfabf914aba337771ed77c4d6dd8f",0
+"3/5/2019 11:07","fraud_Heidenreich PLC","grocery_pos",32.48,"M","Muskegon","MI",128715,"Historic buildings inspector/conservation officer","5/25/1995","ac0a7cca19954e1e9b188f4ccd26cfe3",0
+"12/10/2019 6:12","fraud_Hermann and Sons","shopping_pos",5.17,"F","Lahoma","OK",1078,"Programme researcher, broadcasting/film/video","7/6/1952","8b197a6ebc6bbad69ec440738cb99bf0",0
+"5/30/2019 16:31","fraud_Reichert, Shanahan and Hayes","shopping_net",9.88,"F","Achille","OK",608,"Seismic interpreter","5/27/1993","caad89229d5e37548dbda4ff784b9a8b",0
+"10/26/2019 16:16","fraud_Renner Ltd","home",16.31,"F","Blooming Grove","TX",1563,"Financial adviser","3/4/1978","3b688b1b8df44085ff3defb7166d98f2",0
+"10/6/2019 13:05","fraud_Fadel-Hilpert","health_fitness",77.91,"M","Saxon","WI",795,"Television/film/video producer","4/15/1986","c0d6d673dcc7b41a1cde77daf018620e",0
+"1/20/2019 11:37","fraud_Ferry, Lynch and Kautzer","misc_net",16.99,"M","Camden","MO",464,"Colour technologist","5/28/1959","43914ed0ec79491a79bbdf940ca85ba5",0
+"12/16/2019 1:32","fraud_McDermott-Rice","misc_pos",2.1,"M","Kent","OR",60,"Museum education officer","4/3/1942","4ad065fb95ed01eaec66e96821cf2367",0
+"12/2/2019 6:34","fraud_Vandervort-Funk","grocery_pos",92.48,"M","Washington","DC",601723,"Optician, dispensing","7/20/1970","545d5bb472a49830b60029dcb7593800",0
+"2/28/2019 15:18","fraud_Beier LLC","entertainment",22.15,"F","Mountain Center","CA",1661,"Therapist, music","9/19/1988","3de0b6c4866e5ee9bcd8f1884ea65a97",0
+"4/18/2019 14:11","fraud_Lakin, Ferry and Beatty","food_dining",236.61,"M","Sacramento","CA",757530,"Magazine features editor","4/30/1979","be37739c1249745422b036ab793bc5eb",0
+"8/13/2019 3:59","fraud_Monahan, Bogisich and Ledner","misc_pos",89.73,"F","Louisville","KY",736284,"Education officer, museum","9/13/1961","4a529abe821fea326f426d876d92d5b4",0
+"12/16/2019 18:53","fraud_Leannon-Ward","food_dining",36.93,"F","Munith","MI",2523,"Geophysicist/field seismologist","3/21/1988","c8aa025a910bc566a52402b3518b6f89",0
+"6/25/2019 19:30","fraud_Morissette LLC","entertainment",181.79,"F","White Sulphur Springs","WV",5216,"Community development worker","10/5/1993","641d07d64c836a49171d71d395574c19",0
+"7/20/2019 19:06","fraud_Conroy, Balistreri and Gorczany","health_fitness",175.76,"F","Wilmington","NC",186140,"English as a second language teacher","2/8/1983","af036ae57fc368c05f113b5b5e98ada5",0
+"6/24/2019 13:04","fraud_Predovic Inc","shopping_net",76.08,"F","Westhampton Beach","NY",3255,"Financial trader","7/8/1978","6bb6494c72d5f1d54c955a58e9d95e39",0
+"3/17/2019 21:54","fraud_Weimann-Lockman","kids_pets",26.5,"F","Fenelton","PA",2054,"Operations geologist","8/4/1963","a0650292251a10c8dda81bd63df20ab1",0
+"6/23/2019 2:43","fraud_Kling Inc","gas_transport",60.11,"F","Altonah","UT",302,"Sales professional, IT","1/17/1990","4776cbd48e26467bb34a8760a4bccd57",0
+"2/15/2019 15:36","fraud_Abshire PLC","entertainment",20.11,"M","Mount Hope","AL",1312,"Librarian, academic","2/1/1955","b3bec6091af27a602b3b6f39d9d2023b",0
+"9/23/2019 16:08","fraud_Bernier and Sons","kids_pets",16.58,"F","Indianapolis","IN",910148,"Firefighter","11/30/1975","e7c05517f4c986a0125ed33788d18b90",0
+"11/28/2019 3:45","fraud_Olson, Becker and Koch","gas_transport",67.15,"F","Esbon","KS",242,"Tourism officer","7/18/1987","ec752a25f57503b460bb1a8411cca330",0
+"12/31/2019 15:11","fraud_Padberg-Sauer","home",7.09,"F","Diamond","OH",2644,"Engineer, biomedical","8/25/1983","358aab5bb5a6cf1c1e46abee6ddce035",0
+"1/9/2020 16:29","fraud_Hammes-Beatty","kids_pets",122.7,"M","Oconto Falls","WI",5548,"Mining engineer","9/11/1975","c277ee5e881ae7032f877c95489bde50",0
+"1/21/2019 9:18","fraud_Volkman-Predovic","shopping_net",212.82,"F","Blairsden-Graeagle","CA",1725,"Chartered legal executive (England and Wales)","5/27/1967","950704f542ff3a75ce3dc8549dd147ca",0
+"5/12/2019 23:58","fraud_Hills, Hegmann and Schaefer","health_fitness",30.51,"F","Coleharbor","ND",307,"Make","8/13/1930","b334d09c27625eece946bfb44561f354",0
+"11/8/2019 21:02","fraud_Morissette-Schaefer","personal_care",13.34,"F","Littleton","CO",320420,"Water engineer","7/31/1975","5b2ec7c0855658898b81b94602c4ace2",0
+"10/6/2019 16:21","fraud_Cole, Hills and Jewess","home",14.31,"F","Plantersville","AL",1412,"Drilling engineer","11/20/1970","70aff2893df2f3991767d72925f9ace9",0
+"6/14/2019 10:35","fraud_Strosin-Cruickshank","grocery_pos",137.52,"M","Port Costa","CA",198,"Armed forces training and education officer","3/31/1959","64beeebc8ffc6c6e1dfc1769a791a7d6",0
+"8/2/2019 0:32","fraud_Mosciski, Gislason and Mertz","grocery_pos",49.29,"M","Laredo","TX",248858,"Video editor","1/28/1971","6d4801df166394c493c55d7c623d8b49",0
+"7/11/2019 13:59","fraud_Torphy-Goyette","shopping_pos",20.66,"M","Morrisdale","PA",3688,"Advice worker","5/27/1973","46ccb4916c477fff9002f4cd633e24e3",0
+"12/30/2019 15:02","fraud_Klocko, Runolfsdottir and Breitenberg","health_fitness",89.74,"M","Spearsville","LA",1758,"Psychologist, forensic","8/8/1957","fd2cacba438bc3e6bc53956c9b758ee1",0
+"5/20/2019 6:47","fraud_Smitham-Boehm","grocery_net",33.87,"F","Utica","MO",271,"Land/geomatics surveyor","4/18/1972","5f4d66c5f69bcf77bebc43ee4d225d2e",0
+"12/6/2019 12:47","fraud_Johns Inc","entertainment",52.58,"F","Issaquah","WA",50489,"Osteopath","2/29/1984","c78b7a83f0dd664a71cd07273c7644f9",0
+"4/23/2019 22:04","fraud_Mohr Inc","shopping_pos",3.09,"M","Winthrop","ME",6025,"Advertising account planner","4/22/1995","2800bc9022cc1207e11c33e3302bb8d5",0
+"3/8/2019 17:06","fraud_Hagenes, Kohler and Hoppe","food_dining",3.27,"M","Crownpoint","NM",5662,"IT consultant","4/8/1989","a565dd2f693cb82c960de7e5540a92f9",0
+"8/1/2019 18:21","fraud_Erdman-Durgan","health_fitness",75.69,"M","Schaefferstown","PA",823,"Gaffer","7/2/1982","3d878d04cdf3a22b695c444a97b4d957",0
+"2/6/2020 5:28","fraud_Murray Ltd","grocery_net",64.86,"F","De Witt","AR",5161,"Electrical engineer","4/8/1993","02db46c1d1066b8eb2c96e34748b3c88",0
+"12/7/2019 13:46","fraud_Schoen Ltd","kids_pets",9.39,"F","Heart Butte","MT",743,"Water engineer","5/4/1972","d9abd141e6b4676b83736a2e894d6e8d",0
+"1/26/2019 16:51","fraud_Towne LLC","misc_pos",63.02,"F","Altonah","UT",302,"Sales professional, IT","1/17/1990","b822a79f90bcc4e77f48f920d6f8ba8b",0
+"1/22/2019 3:16","fraud_Zboncak, Rowe and Murazik","shopping_net",251.77,"M","Seneca","WI",153,"Quantity surveyor","2/14/1962","1acac7df209b9c01bf7ba977bc8d2eb9",0
+"7/1/2019 7:39","fraud_Kutch and Sons","grocery_pos",65.05,"F","Heart Butte","MT",743,"Water engineer","5/4/1972","995c2221c3a9e321be0bd263e8da8224",0
+"6/21/2019 14:33","fraud_Prosacco LLC","personal_care",50.02,"F","Edisto Island","SC",2408,"Sales professional, IT","7/5/1997","40d2c53643287185976d35846b2e06bc",0
+"5/17/2019 13:14","fraud_Erdman-Ebert","personal_care",36.41,"F","Cowlesville","NY",1166,"Colour technologist","6/12/1983","b4628e13246d7965afe2e1af4fa7b87d",0
+"1/6/2020 13:38","fraud_Kertzmann LLC","health_fitness",73.91,"M","West Green","GA",782,"Audiological scientist","1/16/1982","d44dae2a561126ac1c0d8d55ebc5718d",0
+"12/14/2019 4:15","fraud_Morar Inc","grocery_net",94.75,"F","Newhall","CA",34882,"Health physicist","4/25/1971","86a838de3512a6026e8f5b9aa1efe0d3",0
+"12/1/2019 13:08","fraud_Waelchi Inc","kids_pets",119.74,"M","Cadiz","KY",13422,"Commissioning editor","9/3/1961","5d4081c699b2af25086b3b1e2a21f45c",0
+"12/29/2019 9:44","fraud_Jenkins, Hauck and Friesen","gas_transport",47.26,"F","Hinesburg","VT",4542,"Claims inspector/assessor","3/19/1998","d2c61ad9ffc53a9eef6984d7028e77ab",0
+"10/4/2019 23:49","fraud_Haag-Blanda","food_dining",5.34,"M","Bessemer","AL",71463,"Radio broadcast assistant","2/8/1989","c4f1c98c290d2bc2daec397bfe2de53c",0
+"8/21/2019 13:50","fraud_Eichmann-Kilback","home",58.25,"F","Brunson","SC",1725,"Social researcher","12/5/1974","25190d58bb42365e5d85c7fc0107d14f",0
+"9/28/2019 9:47","fraud_Emard Inc","gas_transport",58.75,"F","Barnstable","MA",1850,"Counselling psychologist","12/29/1963","9f3e3a3f3ed4e364bec11609867360af",0
+"8/20/2019 3:21","fraud_Kilback LLC","grocery_pos",84.68,"F","Rocky Mount","MO",1847,"Tax inspector","10/26/1988","03bec10098ae1c52fd01731fef52496b",0
+"10/3/2019 17:02","fraud_Monahan-Morar","personal_care",43.99,"F","Bay Minette","AL",19090,"Science writer","5/30/1929","4bec7ebfc0c95f30fc23dcde5457e126",0
+"6/13/2019 1:58","fraud_Monahan, Bogisich and Ledner","misc_pos",31.7,"M","Nazareth","TX",686,"Petroleum engineer","7/30/1980","72c0f5630c13a45669afe1edc7c1176f",0
+"4/29/2019 12:55","fraud_Hilpert-Conroy","kids_pets",3.69,"F","Manville","WY",241,"Educational psychologist","12/16/1980","b277e75aa5271b8151486badafa5445d",0
+"2/3/2019 12:53","fraud_Cole, Hills and Jewess","home",114.74,"F","Higganum","CT",5438,"Librarian, academic","11/17/1964","b86b02222ac6a251a39ac347f626c245",0
+"12/24/2019 17:18","fraud_Roberts, Daniel and Macejkovic","kids_pets",65.29,"M","Payson","IL",1656,"Exhibition designer","8/4/1969","1459b88866af6beb8d592931d259441c",0
+"8/26/2019 12:40","fraud_Jacobi and Sons","shopping_pos",3.22,"M","Arlington","VA",207410,"Mudlogger","7/3/1984","a95a0b9df5bfdc99136106651b9e5800",0
+"3/7/2020 13:54","fraud_Hammes-Beatty","kids_pets",47.78,"M","Hewitt","WI",828,"Arts development officer","8/19/1991","72587576141d7be4b2aed26156db7ea6",0
+"3/24/2019 22:30","fraud_Prosacco LLC","personal_care",9.28,"F","Cuthbert","GA",5726,"Fitness centre manager","8/14/1947","a39a8f1f91d211afdc06d5b3b63e0e38",0
+"10/12/2019 20:17","fraud_Pagac LLC","shopping_pos",7.54,"F","Hinckley","OH",7646,"Medical sales representative","9/15/1988","21b87b2d6a7f93f1a10ccf534ab06ea0",0
+"12/30/2019 11:29","fraud_Reilly, Heaney and Cole","gas_transport",75.66,"F","Creola","OH",321,"Copywriter, advertising","6/24/1979","f122eb9eebccb4b6971397cd5732e854",0
+"9/6/2019 12:03","fraud_Dibbert-Green","entertainment",2.5,"M","Clarinda","IA",7297,"IT trainer","7/13/1990","dfd6c5a3d7f3b1734205060a2e211c9b",0
+"2/22/2020 16:34","fraud_Abshire PLC","entertainment",4.8,"F","Beaver Falls","PA",28425,"Podiatrist","6/9/2000","8cd61c543c61321859cf4df6374cd935",0
+"12/28/2019 18:17","fraud_Goyette, Howell and Collier","shopping_pos",38.96,"F","Colorado Springs","CO",525713,"Museum/gallery exhibitions officer","5/9/1992","ba6672bf9953f3ac91b63bc6d9de3590",0
+"12/11/2019 11:00","fraud_Bahringer-Streich","food_dining",78.32,"M","Burke","VA",43102,"Health visitor","11/27/1950","7c7f5c8eaf181d1708d36365efae9390",0
+"12/25/2019 19:45","fraud_Pollich LLC","home",57.94,"F","Mifflin","PA",1909,"Mining engineer","8/22/1954","64b0aae9b5c353008db73153efecf120",0
+"2/17/2020 4:51","fraud_Heller, Gutmann and Zieme","grocery_pos",91.04,"M","Claremont","CA",35705,"Wellsite geologist","5/15/1956","0a481a7e3307b2d89258c6c4ff5b491c",0
+"10/8/2019 17:03","fraud_Reilly LLC","home",64.93,"M","Oxford","MI",24840,"Agricultural consultant","1/20/1960","a0cae7f8e80ff9437028a91ab93091c8",0
+"6/14/2019 16:24","fraud_Parisian, Schiller and Altenwerth","misc_net",4.84,"F","Smiths Grove","KY",6841,"Therapist, sports","6/6/1999","890325064af9bb3255194aadceef70c2",0
+"6/27/2019 0:49","fraud_Nitzsche, Kessler and Wolff","shopping_pos",7.13,"F","Adams","WI",3508,"Sport and exercise psychologist","8/11/1946","402bf917aaf524e57e1f941fbfd50b0d",0
+"10/6/2019 5:11","fraud_Towne, Walker and Borer","grocery_net",34.3,"M","Woodville","AL",3395,"Editor, commissioning","1/21/1979","a99c5560c5306de6301e6f82aad41976",0
+"12/6/2019 21:14","fraud_Schneider, Hayes and Nikolaus","food_dining",74.82,"M","Rockwood","PA",3684,"General practice doctor","1/10/1976","4562eb728cdb46a787d26190a89d4859",0
+"12/30/2019 20:23","fraud_Dare-Marvin","entertainment",51.15,"F","West Sayville","NY",4056,"Film/video editor","6/25/1990","1210624a8814ff62cc3335e2781b8568",0
+"9/12/2019 11:41","fraud_Mosciski, Gislason and Mertz","grocery_pos",152.62,"F","Gardiner","OR",260,"Engineer, maintenance","9/1/1956","eb170529c5b75df31ba0cd2a74b1b4c3",0
+"12/2/2019 15:40","fraud_Ankunding-Carroll","travel",1.14,"F","Issaquah","WA",50489,"Osteopath","2/29/1984","49722d5e62c3995646b754e9d74de55e",0
+"9/30/2019 7:45","fraud_Larkin, Stracke and Greenfelder","entertainment",3.66,"M","Fairview","NJ",13835,"Programmer, multimedia","5/28/1967","0fe4cd66cc1c1886993a251022f72fe6",0
+"12/13/2019 11:16","fraud_Beier-Hyatt","shopping_pos",2.95,"M","Ozawkie","KS",2661,"Theatre director","11/14/1948","a9252a19ab9252e5b41694171fba1d5d",0
+"9/5/2019 3:27","fraud_Friesen-Stamm","gas_transport",38.82,"F","Mill Creek","PA",1334,"Archaeologist","12/17/1986","c327d60d5e50ed909f8cbe4edd6e1061",0
+"10/1/2019 8:35","fraud_Murray-Smitham","grocery_pos",88.36,"M","Summerfield","TX",53,"Fisheries officer","6/19/1992","dc133de4deafbf5abd2ac86a92b8db2f",0
+"8/23/2019 3:47","fraud_Harris Inc","gas_transport",103.05,"F","Tomahawk","WI",9594,"Seismic interpreter","11/23/1997","54946bd4673825f2493fc66830167658",0
+"7/6/2019 3:51","fraud_Barton Inc","grocery_pos",114.62,"M","Saxon","WI",795,"Television/film/video producer","4/15/1986","da82d6c1e83c70a976efa321803a9aef",0
+"9/25/2019 4:20","fraud_McCullough Group","grocery_net",80.34,"M","Oakland","TN",9496,"Furniture conservator/restorer","3/23/1993","c945257ea9b42eb48d0443eb2f2f9900",0
+"6/13/2019 17:41","fraud_Haag-Blanda","food_dining",61.51,"M","Harper","TX",2395,"Pharmacist, community","11/17/1993","fc6c2d1562ba2de860014746a036271c",0
+"1/9/2020 9:40","fraud_Koss and Sons","gas_transport",99.79,"F","Miamisburg","OH",36784,"Investment banker, corporate","7/31/1941","11b0a8b24d116832b0a03fb2ad7c5b14",0
+"5/30/2019 6:53","fraud_Mraz-Herzog","gas_transport",65.06,"M","Cross Plains","TX",1897,"Chief Operating Officer","4/19/1953","c93810c9335f20f17485e59209623f5e",0
+"5/12/2019 0:18","fraud_Friesen-Stamm","gas_transport",51.64,"F","Norman","AR",1383,"Manufacturing engineer","9/11/1999","4689786593c615ffd3e74b583e783e82",0
+"6/9/2019 12:27","fraud_Kris-Padberg","shopping_pos",7.67,"F","Tomahawk","WI",9594,"Seismic interpreter","11/23/1997","33b2d4f9256f24bc5d97e5ac96053b45",0
+"1/15/2019 6:59","fraud_Parisian, Schiller and Altenwerth","misc_net",36.32,"M","Mount Hope","AL",1312,"Librarian, academic","2/1/1955","3d64bdbaf0ac8713189ee7fee187d8e9",0
+"3/24/2019 1:34","fraud_Goldner, Kovacek and Abbott","grocery_pos",100.26,"M","Palermo","ND",229,"Administrator","3/20/1983","1fdf9fdb1cf852df7a455a992850da6c",0
+"3/23/2019 17:01","fraud_Monahan, Hermann and Johns","travel",8.89,"F","Slayden","TN",70,"Prison officer","6/22/1956","fdeb06b98f0482c85851870da0338737",0
+"8/24/2019 23:24","fraud_Bahringer, Schoen and Corkery","shopping_pos",465.11,"F","Lomax","IL",725,"Environmental consultant","11/28/1972","acc76917a3933e6793dd7751c9241f41",0
+"9/29/2019 8:15","fraud_Flatley-Durgan","misc_net",1.74,"M","Mooresville","NC",69793,"Control and instrumentation engineer","12/8/1953","6d95d0db15a214683cf7f26778e9a07d",0
+"8/1/2019 15:33","fraud_Gaylord-Powlowski","home",44.74,"F","Des Moines","IA",222785,"Wellsite geologist","1/24/1956","9b8c6ca7f5f93a44208cf1d99d57fa79",0
+"7/30/2019 21:42","fraud_Kirlin and Sons","personal_care",2.88,"M","Bronx","NY",1382480,"Therapist, drama","11/9/1990","a75901f54f6759608c388837d5bad071",0
+"3/7/2019 21:40","fraud_Fadel, Mertz and Rippin","entertainment",28.22,"M","Lawrence","MA",76383,"Geoscientist","4/4/1985","a50167d0d273c0b6d9eb1b41ee6f9b63",0
+"2/10/2019 8:56","fraud_Raynor, Reinger and Hagenes","gas_transport",58.99,"F","Elberta","MI",372,"Exhibitions officer, museum/gallery","7/12/1995","65cb3829f863bf27f21025c7b5cb4136",0
+"11/8/2019 12:42","fraud_Bahringer Group","health_fitness",37.56,"M","Mount Hope","AL",1312,"Librarian, academic","2/1/1955","fb9245d0c12bb95596feedf590a33af5",0
+"5/26/2019 12:35","fraud_Schoen-Quigley","kids_pets",277.66,"F","Mifflin","PA",1909,"Mining engineer","8/22/1954","262f830c536b60442bd592557dc28335",0
+"5/17/2019 13:06","fraud_Ruecker-Mayert","kids_pets",42.78,"M","Oaks","PA",737,"Oceanographer","4/24/1987","df55c6ea2d75468e703bb0d57707f961",0
+"12/22/2019 17:40","fraud_Champlin-Casper","home",4.81,"F","Centerview","MO",2368,"Electronics engineer","7/17/1989","1da48cc6f067830a702fdc0b0841b36c",0
+"10/26/2019 15:55","fraud_Quitzon-Goyette","home",25.73,"M","Ruth","NV",450,"Interpreter","8/24/1946","d4ee350d4a1835e6f41223ac8c988ede",0
+"4/17/2019 19:12","fraud_Berge-Hills","kids_pets",19.31,"F","Prairie Hill","TX",263,"Barrister","5/30/1956","c3777f81c52388d06073dace9b1a3357",0
+"1/22/2019 0:57","fraud_Kunze Inc","grocery_pos",238.03,"F","Sherman","TX",46563,"Systems developer","9/11/1970","9d18f451f955f1704748b932b97ed602",0
+"12/30/2019 5:13","fraud_Auer-Mosciski","grocery_pos",159.1,"F","Dexter","KS",602,"Buyer, industrial","10/26/1958","52f4fd0399a13bcce0ac25da65a2b4d2",0
+"5/4/2019 16:34","fraud_Dibbert-Green","entertainment",40.21,"F","Howes Cave","NY",1304,"Jewellery designer","6/9/1970","af2b11f74ace061345c7a6a1343cadda",0
+"5/26/2019 19:34","fraud_Brown, Homenick and Lesch","health_fitness",75.44,"F","Phoenix","AZ",1312922,"Counselling psychologist","11/30/1999","d4b8f61580f749d12c99020e50406c79",0
+"1/9/2019 1:49","fraud_Fisher-Schowalter","shopping_net",1.09,"M","Lubbock","TX",254282,"Doctor, general practice","1/29/1952","a681f8dcbacf0b2e9a81103cf603de2a",0
+"4/27/2019 8:03","fraud_Rau and Sons","grocery_pos",204.61,"F","Sherman","TX",46563,"Systems developer","9/11/1970","cbf4e6ceeccb4aaed52dd8d01afcb4bb",0
+"10/26/2019 22:48","fraud_Haag-Blanda","food_dining",45.37,"M","San Antonio","TX",1595797,"Exhibition designer","12/28/1975","8272bf2240afbeaceedc98df5d1c5c1c",0
+"11/28/2019 21:37","fraud_Kutch, Steuber and Gerhold","food_dining",69.82,"M","Sachse","TX",20328,"Site engineer","6/20/1985","69663e0ff6591993aae329c6a3ccebc2",0
+"6/4/2019 17:42","fraud_Larkin, Stracke and Greenfelder","entertainment",77.28,"M","Oaks","PA",737,"Oceanographer","4/24/1987","8c2802bcfb2b6e3579bfdc497a6709b2",0
+"5/1/2019 14:15","fraud_Hermiston, Pacocha and Smith","health_fitness",48.87,"F","Scotland","MD",313,"Insurance underwriter","3/26/1976","0ff5c6139330a207f7f780b3aeee6752",0
+"4/16/2019 5:35","fraud_Bins, Balistreri and Beatty","shopping_pos",6.04,"F","Unionville","MO",3805,"Investment banker, corporate","9/15/1950","004f0bf07000d71303841d6e513ca4b1",0
+"2/15/2019 9:22","fraud_Osinski, Ledner and Leuschke","grocery_pos",128.17,"M","Parsonsfield","ME",1892,"Audiological scientist","3/2/1956","4d00703e686f6fe90c47b38952d7406e",0
+"5/27/2019 5:54","fraud_Kutch, Hermiston and Farrell","gas_transport",75.79,"M","Muskegon","MI",128715,"Historic buildings inspector/conservation officer","5/25/1995","15655f0aac4b1a3124b8cb38ea0c0d6a",0
+"8/26/2019 18:20","fraud_Donnelly LLC","entertainment",95.43,"M","Bronx","NY",1382480,"Therapist, drama","11/9/1990","def13c1f80cfed8f3e57fc136afa6522",0
+"1/27/2019 6:58","fraud_Moen, Reinger and Murphy","grocery_pos",50.39,"M","North Brookfield","MA",4680,"Field seismologist","4/3/1986","43c14a7363d2499d29551ad815607435",0
+"9/22/2019 12:24","fraud_Lemke and Sons","travel",4.87,"M","Bronx","NY",1382480,"Therapist, drama","11/9/1990","1365143be4f430b91778004b0a93d3e0",0
+"1/28/2020 17:15","fraud_White and Sons","home",72.58,"M","Zaleski","OH",341,"Accounting technician","12/18/1978","b424903ccdf5f75966fb5a8bf6a066f7",0
+"4/27/2019 16:29","fraud_Terry Ltd","home",1.5,"F","Knoxville","TN",391389,"Designer, industrial/product","4/22/1994","a56a03797a4edfe9d92a1f81fae79de1",0
+"5/18/2019 22:25","fraud_Schuppe LLC","entertainment",78.64,"M","Etlan","VA",395,"Senior tax professional/tax inspector","1/7/1982","3f0cdab93b3b2c728f2d5afe8cbc1142",0
+"6/16/2019 12:06","fraud_Roberts-Beahan","misc_pos",5.71,"F","Tomahawk","WI",9594,"Seismic interpreter","11/23/1997","599642b286ae512dacd35debb72f6468",0
+"8/25/2019 13:19","fraud_Cruickshank-Mills","entertainment",84.76,"F","Lakeport","CA",11256,"Podiatrist","10/18/1972","83a4f252fcf96dbcb889c4c16c7ea3c7",0
+"7/19/2019 12:54","fraud_Weber and Sons","food_dining",45.15,"M","Gretna","LA",55581,"Biomedical scientist","9/12/1972","5c10a723295d487f2658ea90a81d2935",0
+"12/30/2019 23:56","fraud_Schmidt and Sons","shopping_net",45.44,"F","De Soto","KS",5760,"Chief Executive Officer","10/1/1978","9ea21a42f86c904e2bb7dec4cd667f5e",0
+"11/4/2019 17:56","fraud_Torp, Muller and Borer","health_fitness",70.63,"F","Plainfield","NJ",71485,"Leisure centre manager","7/19/1974","c05483b187510a7ba79fd4e49d9212fd",0
+"3/3/2019 1:44","fraud_Goldner, Kovacek and Abbott","grocery_pos",135.43,"F","Westerville","NE",73,"Product designer","2/10/1935","affbe4646ebf0d9d5034f4d3f4f10bbf",0
+"2/3/2020 15:44","fraud_Grimes LLC","entertainment",91.2,"F","Walnut Ridge","AR",7155,"Engineer, control and instrumentation","3/23/1977","b9a4aec4207b25463803234f9f096a30",0
+"3/7/2020 21:26","fraud_Reilly LLC","home",54.23,"F","Ashford","WA",759,"Video editor","9/14/1956","81ba693fb13856b7038074169c0b37b4",0
+"2/4/2020 16:52","fraud_Fahey Inc","kids_pets",83.97,"M","Luzerne","MI",864,"General practice doctor","5/4/1942","047db823c9d9ef2114c874471db83ace",0
+"1/27/2019 6:24","fraud_Schoen, Kuphal and Nitzsche","grocery_pos",113.31,"M","West Decatur","PA",1762,"Armed forces logistics/support/administrative officer","5/4/1962","35d35dd31993548dc9eff2f0a1581518",0
+"11/21/2019 22:43","fraud_Jewess LLC","shopping_pos",2.55,"F","Utica","MO",271,"Land/geomatics surveyor","4/18/1972","0fe20a5373704dc11d0dacc4bca0d1ba",0
+"9/8/2019 18:34","fraud_Bernier and Sons","kids_pets",168.84,"F","Greendale","WI",13973,"Logistics and distribution manager","5/6/1981","1f07913ee413ffa6f086552df0dcce7e",0
+"4/27/2019 14:40","fraud_Watsica LLC","personal_care",10.74,"M","Ollie","IA",568,"Commercial horticulturist","7/24/1969","a926531f26ff9f7a2bef8155be846b6d",0
+"5/4/2019 4:12","fraud_Schultz, Simonis and Little","grocery_pos",119.47,"M","Purmela","TX",258,"Web designer","12/15/1943","448b32b28ef8dc58f694d77d629c9845",0
+"10/21/2019 13:39","fraud_Lind-Buckridge","entertainment",126.21,"F","Wilmington","NC",186140,"English as a second language teacher","2/8/1983","aa90dbabb1414bf887839837cbf2bcd2",0
+"1/26/2019 12:15","fraud_Lemke and Sons","travel",5.98,"F","New Memphis","IL",254,"Magazine journalist","5/7/1952","32645ed436703688b728b55d9ee696ac",0
+"8/5/2019 13:39","fraud_Heathcote, Yost and Kertzmann","shopping_net",2.87,"F","Center Point","WV",255,"Chief Executive Officer","12/10/1971","806ead3301c0e166b54e88557cd76925",0
+"1/31/2020 15:55","fraud_Beier LLC","entertainment",62.61,"M","Egan","LA",1261,"Broadcast presenter","7/1/1972","eb1684870f38f31e53c1da206729d0bc",0
+"9/30/2019 19:30","fraud_Hahn, Bahringer and McLaughlin","personal_care",30.99,"F","De Witt","AR",5161,"Electrical engineer","4/8/1993","ec0d094749ca26e91123422408318417",0
+"6/15/2019 22:36","fraud_Ernser-Lynch","food_dining",5.3,"F","Ranier","MN",136,"Ceramics designer","2/20/2000","2b134bd871b7b7f11fa4ade3d6d95326",0
+"11/12/2019 3:14","fraud_Bauch-Raynor","grocery_pos",108.67,"F","Campbell","NE",493,"Surveyor, minerals","9/13/1940","9cd6d95a0cd66eb95348dc254e667fd4",0
+"12/17/2019 11:31","fraud_Effertz LLC","entertainment",160.98,"M","Grand Bay","AL",15647,"Armed forces logistics/support/administrative officer","3/22/1948","95b709a0e90ad5345b0567f19514caea",0
+"11/21/2019 9:01","fraud_Stoltenberg-Beatty","shopping_pos",797.15,"F","Holstein","NE",331,"Telecommunications researcher","8/19/1950","825ccf0ba5ec0df42b12cf9c59078a80",0
+"12/2/2019 20:39","fraud_Block Group","misc_pos",28.69,"F","Ronceverte","WV",4575,"Statistician","10/22/1991","c00c06ddb20f64cc56457bbcdb509ca6",0
+"4/12/2019 0:51","fraud_Schmitt Inc","gas_transport",58.22,"M","Bessemer","AL",71463,"Radio broadcast assistant","2/8/1989","3a219c6990575793843afc0ca4510385",0
+"10/12/2019 14:34","fraud_Kihn-Fritsch","food_dining",61.8,"M","Elkhart","IA",1195,"Trading standards officer","3/13/1974","fbb3b8fa83e2c229fa7e9472676c5dcb",0
+"6/17/2019 6:24","fraud_Schamberger-O'Keefe","grocery_pos",76.08,"M","Lakeland","FL",237282,"Plant breeder/geneticist","10/13/1949","4b95de1c896b4bea0a154cc146aec268",0
+"5/25/2019 19:30","fraud_Wilkinson LLC","personal_care",28.57,"F","Marathon","TX",498,"Lexicographer","11/23/1990","2685c786ab6fd86034cb1db0b0fdaaae",0
