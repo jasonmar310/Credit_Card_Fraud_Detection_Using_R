@@ -8,13 +8,15 @@ To sum up, according to the problem of credit card fraud transactions, we will d
 
 The link of the dataset = ‘https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv’
 
+---
 
-###Introduction
+### Introduction
 
 There are two datasets already split as training and testing dataset. In our case, we chose train dataset as our main dataset. Due to the similarity and consistency of data, there are slightly differences between two of them. To briefly introduce this dataset, we will start with its dictionary before data scaling and cleaning. First, we selected the necessary columns for the analysis and drop personal information, such as first name and last name. 
 
+---
 
-###Data Dictionary (columns descriptions, after preprocessing)
+### Data Dictionary (columns descriptions, after preprocessing)
 
 trans_date_trans_time      	Transaction Date Time
 merchant	Category of Merchant
@@ -30,8 +32,9 @@ dob	Date of Birth
 trans_num	Transaction Number
 is_fraud	Fraud Transaction (0 = N, 1 = Y)
 
+---
 
-###Research Questions
+### Research Questions
 1.	Are elder customers more likely to be victims of credit card fraud?
    
 
